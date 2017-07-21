@@ -1,0 +1,20 @@
+Parameter,Average Optimal Value
+Iterations 75000,200.0
+Iterations 50000,200.0
+Iterations 5000,22.0
+Iterations 20000,95.0
+Iterations 2000,8.0
+Iterations 15000,73.0
+Iterations 10000,47.0
+Iterations 1000,8.0
+"Four Peaks Test with Randomized Hill Climbing
+"
+Iterations,Optimal Value,Time
+1000,8.0,21
+2000,8.0,16
+5000,22.0,25
+10000,47.0,35
+15000,73.0,46
+20000,95.0,61
+50000,200.0,96
+75000,200.0,113

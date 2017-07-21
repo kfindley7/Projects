@@ -1,0 +1,28 @@
+Parameter,Average Optimal Value
+Samples to Keep 25,350.0
+Samples to Keep 10,350.0
+Samples 50,350.0
+Samples 20,350.0
+Iterations 7,350.0
+Iterations 5,350.0
+Iterations 3,350.0
+Iterations 10,350.0
+Iterations 1,350.0
+"Max K Color Test with MIMIC
+"
+Iterations,Samples,Samples to Keep,Optimal Value,Time
+1,20,10,350.0,21
+1,50,10,350.0,27
+1,50,25,350.0,29
+3,20,10,350.0,25
+3,50,10,350.0,29
+3,50,25,350.0,32
+5,20,10,350.0,28
+5,50,10,350.0,34
+5,50,25,350.0,36
+7,20,10,350.0,31
+7,50,10,350.0,47
+7,50,25,350.0,57
+10,20,10,350.0,34
+10,50,10,350.0,40
+10,50,25,350.0,49

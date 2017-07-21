@@ -1,0 +1,20 @@
+Parameter,Average Optimal Value
+Iterations 5000,340.0
+Iterations 20000,340.0
+Iterations 2000,340.0
+Iterations 15000,340.0
+Iterations 1000000,340.0
+Iterations 100000,340.0
+Iterations 10000,340.0
+Iterations 1000,340.0
+" Max K Color Test with Randomized Hill Climbing
+"
+Iterations,Optimal Value,Time
+1000,340.0,36
+2000,340.0,45
+5000,340.0,70
+10000,340.0,96
+15000,340.0,85
+20000,340.0,105
+100000,340.0,374
+1000000,340.0,3287
