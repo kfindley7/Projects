@@ -1,0 +1,1751 @@
+Question 6!
+Starting training at time 13:08:28.445216 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 20; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 30; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 40; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 50; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 60; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 70; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 80; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 90; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 100; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 110; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 120; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 130; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 140; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 150; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 160; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 170; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 180; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 190; training error 0.045019 and weight change 0.001615
+. . . . . . . . . Finished after 200 iterations at time 13:10:10.437262 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+Starting training at time 13:10:10.511831 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.060000 and weight change 0.004233
+. . . . . . . . . ! on iteration 20; training error 0.059818 and weight change 0.004126
+. . . . . . . . . ! on iteration 30; training error 0.059775 and weight change 0.004093
+. . . . . . . . . ! on iteration 40; training error 0.059757 and weight change 0.004079
+. . . . . . . . . ! on iteration 50; training error 0.059748 and weight change 0.004072
+. . . . . . . . . ! on iteration 60; training error 0.059743 and weight change 0.004068
+. . . . . . . . . ! on iteration 70; training error 0.059739 and weight change 0.004065
+. . . . . . . . . ! on iteration 80; training error 0.059737 and weight change 0.004063
+. . . . . . . . . ! on iteration 90; training error 0.059736 and weight change 0.004061
+. . . . . . . . . ! on iteration 100; training error 0.059734 and weight change 0.004060
+. . . . . . . . . ! on iteration 110; training error 0.059734 and weight change 0.004059
+. . . . . . . . . ! on iteration 120; training error 0.059733 and weight change 0.004058
+. . . . . . . . . ! on iteration 130; training error 0.059732 and weight change 0.004057
+. . . . . . . . . ! on iteration 140; training error 0.059732 and weight change 0.004056
+. . . . . . . . . ! on iteration 150; training error 0.059732 and weight change 0.004056
+. . . . . . . . . ! on iteration 160; training error 0.059732 and weight change 0.004055
+. . . . . . . . . ! on iteration 170; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 180; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 190; training error 0.059731 and weight change 0.004054
+. . . . . . . . . Finished after 200 iterations at time 13:10:11.764708 with training error 0.059731 and weight change 0.004054
+Feed Forward Test correctly classified 1073, incorrectly classified 455, test percent error  0.702225
+
+Starting training at time 13:10:11.779800 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 20; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 30; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 40; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 50; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 60; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 70; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 80; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 90; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 100; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 110; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 120; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 130; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 140; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 150; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 160; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 170; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 180; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 190; training error 0.045019 and weight change 0.001615
+. . . . . . . . . Finished after 200 iterations at time 13:11:53.758818 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+Starting training at time 13:11:53.847024 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.059972 and weight change 0.004222
+. . . . . . . . . ! on iteration 20; training error 0.059813 and weight change 0.004123
+. . . . . . . . . ! on iteration 30; training error 0.059773 and weight change 0.004092
+. . . . . . . . . ! on iteration 40; training error 0.059756 and weight change 0.004079
+. . . . . . . . . ! on iteration 50; training error 0.059748 and weight change 0.004072
+. . . . . . . . . ! on iteration 60; training error 0.059743 and weight change 0.004068
+. . . . . . . . . ! on iteration 70; training error 0.059739 and weight change 0.004065
+. . . . . . . . . ! on iteration 80; training error 0.059737 and weight change 0.004063
+. . . . . . . . . ! on iteration 90; training error 0.059735 and weight change 0.004061
+. . . . . . . . . ! on iteration 100; training error 0.059734 and weight change 0.004060
+. . . . . . . . . ! on iteration 110; training error 0.059734 and weight change 0.004059
+. . . . . . . . . ! on iteration 120; training error 0.059733 and weight change 0.004058
+. . . . . . . . . ! on iteration 130; training error 0.059732 and weight change 0.004057
+. . . . . . . . . ! on iteration 140; training error 0.059732 and weight change 0.004056
+. . . . . . . . . ! on iteration 150; training error 0.059732 and weight change 0.004056
+. . . . . . . . . ! on iteration 160; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 170; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 180; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 190; training error 0.059731 and weight change 0.004054
+. . . . . . . . . Finished after 200 iterations at time 13:11:55.188579 with training error 0.059731 and weight change 0.004054
+Feed Forward Test correctly classified 1073, incorrectly classified 455, test percent error  0.702225
+
+Starting training at time 13:11:55.221244 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 20; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 30; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 40; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 50; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 60; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 70; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 80; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 90; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 100; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 110; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 120; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 130; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 140; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 150; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 160; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 170; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 180; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 190; training error 0.045019 and weight change 0.001615
+. . . . . . . . . Finished after 200 iterations at time 13:13:39.518524 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+Starting training at time 13:13:39.595989 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.059977 and weight change 0.004227
+. . . . . . . . . ! on iteration 20; training error 0.059813 and weight change 0.004124
+. . . . . . . . . ! on iteration 30; training error 0.059773 and weight change 0.004093
+. . . . . . . . . ! on iteration 40; training error 0.059756 and weight change 0.004079
+. . . . . . . . . ! on iteration 50; training error 0.059748 and weight change 0.004072
+. . . . . . . . . ! on iteration 60; training error 0.059743 and weight change 0.004068
+. . . . . . . . . ! on iteration 70; training error 0.059739 and weight change 0.004065
+. . . . . . . . . ! on iteration 80; training error 0.059737 and weight change 0.004063
+. . . . . . . . . ! on iteration 90; training error 0.059735 and weight change 0.004061
+. . . . . . . . . ! on iteration 100; training error 0.059734 and weight change 0.004060
+. . . . . . . . . ! on iteration 110; training error 0.059734 and weight change 0.004059
+. . . . . . . . . ! on iteration 120; training error 0.059733 and weight change 0.004058
+. . . . . . . . . ! on iteration 130; training error 0.059732 and weight change 0.004057
+. . . . . . . . . ! on iteration 140; training error 0.059732 and weight change 0.004056
+. . . . . . . . . ! on iteration 150; training error 0.059732 and weight change 0.004056
+. . . . . . . . . ! on iteration 160; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 170; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 180; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 190; training error 0.059731 and weight change 0.004054
+. . . . . . . . . Finished after 200 iterations at time 13:13:40.893875 with training error 0.059731 and weight change 0.004054
+Feed Forward Test correctly classified 1073, incorrectly classified 455, test percent error  0.702225
+
+Starting training at time 13:13:40.911132 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 20; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 30; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 40; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 50; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 60; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 70; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 80; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 90; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 100; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 110; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 120; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 130; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 140; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 150; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 160; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 170; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 180; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 190; training error 0.045019 and weight change 0.001615
+. . . . . . . . . Finished after 200 iterations at time 13:15:25.981105 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+Starting training at time 13:15:26.066751 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.059979 and weight change 0.004226
+. . . . . . . . . ! on iteration 20; training error 0.059814 and weight change 0.004124
+. . . . . . . . . ! on iteration 30; training error 0.059773 and weight change 0.004093
+. . . . . . . . . ! on iteration 40; training error 0.059757 and weight change 0.004079
+. . . . . . . . . ! on iteration 50; training error 0.059748 and weight change 0.004072
+. . . . . . . . . ! on iteration 60; training error 0.059743 and weight change 0.004068
+. . . . . . . . . ! on iteration 70; training error 0.059739 and weight change 0.004065
+. . . . . . . . . ! on iteration 80; training error 0.059737 and weight change 0.004063
+. . . . . . . . . ! on iteration 90; training error 0.059735 and weight change 0.004061
+. . . . . . . . . ! on iteration 100; training error 0.059734 and weight change 0.004060
+. . . . . . . . . ! on iteration 110; training error 0.059734 and weight change 0.004059
+. . . . . . . . . ! on iteration 120; training error 0.059733 and weight change 0.004058
+. . . . . . . . . ! on iteration 130; training error 0.059732 and weight change 0.004057
+. . . . . . . . . ! on iteration 140; training error 0.059732 and weight change 0.004056
+. . . . . . . . . ! on iteration 150; training error 0.059732 and weight change 0.004056
+. . . . . . . . . ! on iteration 160; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 170; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 180; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 190; training error 0.059731 and weight change 0.004054
+. . . . . . . . . Finished after 200 iterations at time 13:15:27.286757 with training error 0.059731 and weight change 0.004054
+Feed Forward Test correctly classified 1073, incorrectly classified 455, test percent error  0.702225
+
+Starting training at time 13:15:27.301297 with 16 inputs, 10 outputs, [0] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 20; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 30; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 40; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 50; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 60; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 70; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 80; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 90; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 100; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 110; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 120; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 130; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 140; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 150; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 160; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 170; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 180; training error 0.045019 and weight change 0.001615
+. . . . . . . . . ! on iteration 190; training error 0.045019 and weight change 0.001615
+. . . . . . . . . Finished after 200 iterations at time 13:17:11.533720 with training error 0.045019 and weight change 0.001615
+Feed Forward Test correctly classified 0, incorrectly classified 3498, test percent error  0.000000
+
+Starting training at time 13:17:11.607357 with 21 inputs, 4 outputs, [0] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.059979 and weight change 0.004227
+. . . . . . . . . ! on iteration 20; training error 0.059814 and weight change 0.004124
+. . . . . . . . . ! on iteration 30; training error 0.059773 and weight change 0.004093
+. . . . . . . . . ! on iteration 40; training error 0.059757 and weight change 0.004079
+. . . . . . . . . ! on iteration 50; training error 0.059748 and weight change 0.004072
+. . . . . . . . . ! on iteration 60; training error 0.059743 and weight change 0.004068
+. . . . . . . . . ! on iteration 70; training error 0.059739 and weight change 0.004065
+. . . . . . . . . ! on iteration 80; training error 0.059737 and weight change 0.004063
+. . . . . . . . . ! on iteration 90; training error 0.059735 and weight change 0.004061
+. . . . . . . . . ! on iteration 100; training error 0.059734 and weight change 0.004060
+. . . . . . . . . ! on iteration 110; training error 0.059734 and weight change 0.004059
+. . . . . . . . . ! on iteration 120; training error 0.059733 and weight change 0.004058
+. . . . . . . . . ! on iteration 130; training error 0.059732 and weight change 0.004057
+. . . . . . . . . ! on iteration 140; training error 0.059732 and weight change 0.004056
+. . . . . . . . . ! on iteration 150; training error 0.059732 and weight change 0.004056
+. . . . . . . . . ! on iteration 160; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 170; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 180; training error 0.059731 and weight change 0.004055
+. . . . . . . . . ! on iteration 190; training error 0.059731 and weight change 0.004054
+. . . . . . . . . Finished after 200 iterations at time 13:17:12.733128 with training error 0.059731 and weight change 0.004054
+Feed Forward Test correctly classified 1073, incorrectly classified 455, test percent error  0.702225
+
+('PEN DATA AVERAGE:', 0.0)
+('CAR DATA AVERAGE:', 0.7022251308900523)
+('PEN DATA MAX:', 0.0)
+('CAR DATA MAX:', 0.7022251308900523)
+('STD DEV OF PEN DATA:', 0.0)
+('STD DEV OF CAR DATA:', 0.0)
+Starting training at time 13:17:12.748432 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.009285 and weight change 0.000687
+. . . . . . . . . ! on iteration 20; training error 0.007958 and weight change 0.000592
+. . . . . . . . . ! on iteration 30; training error 0.007434 and weight change 0.000544
+. . . . . . . . . ! on iteration 40; training error 0.007179 and weight change 0.000512
+. . . . . . . . . ! on iteration 50; training error 0.007019 and weight change 0.000492
+. . . . . . . . . ! on iteration 60; training error 0.006898 and weight change 0.000479
+. . . . . . . . . ! on iteration 70; training error 0.006795 and weight change 0.000466
+. . . . . . . . . ! on iteration 80; training error 0.006695 and weight change 0.000452
+. . . . . . . . . ! on iteration 90; training error 0.006615 and weight change 0.000441
+. . . . . . . . . ! on iteration 100; training error 0.006553 and weight change 0.000432
+. . . . . . . . . ! on iteration 110; training error 0.006502 and weight change 0.000424
+. . . . . . . . . ! on iteration 120; training error 0.006459 and weight change 0.000417
+. . . . . . . . . ! on iteration 130; training error 0.006422 and weight change 0.000411
+. . . . . . . . . ! on iteration 140; training error 0.006388 and weight change 0.000404
+. . . . . . . . . ! on iteration 150; training error 0.006356 and weight change 0.000398
+. . . . . . . . . ! on iteration 160; training error 0.006327 and weight change 0.000393
+. . . . . . . . . ! on iteration 170; training error 0.006300 and weight change 0.000388
+. . . . . . . . . ! on iteration 180; training error 0.006275 and weight change 0.000384
+. . . . . . . . . ! on iteration 190; training error 0.006251 and weight change 0.000379
+. . . . . . . . . Finished after 200 iterations at time 13:22:35.534438 with training error 0.006231 and weight change 0.000376
+Feed Forward Test correctly classified 2892, incorrectly classified 606, test percent error  0.826758
+
+Starting training at time 13:22:35.717250 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.045486 and weight change 0.000773
+. . . . . . . . . ! on iteration 20; training error 0.030857 and weight change 0.000679
+. . . . . . . . . ! on iteration 30; training error 0.025696 and weight change 0.000623
+. . . . . . . . . ! on iteration 40; training error 0.022424 and weight change 0.000588
+. . . . . . . . . ! on iteration 50; training error 0.019562 and weight change 0.000563
+. . . . . . . . . ! on iteration 60; training error 0.017094 and weight change 0.000538
+. . . . . . . . . ! on iteration 70; training error 0.015107 and weight change 0.000511
+. . . . . . . . . ! on iteration 80; training error 0.013448 and weight change 0.000482
+. . . . . . . . . ! on iteration 90; training error 0.012084 and weight change 0.000451
+. . . . . . . . . ! on iteration 100; training error 0.010981 and weight change 0.000422
+. . . . . . . . . ! on iteration 110; training error 0.010080 and weight change 0.000395
+. . . . . . . . . ! on iteration 120; training error 0.009335 and weight change 0.000371
+. . . . . . . . . ! on iteration 130; training error 0.008710 and weight change 0.000349
+. . . . . . . . . ! on iteration 140; training error 0.008183 and weight change 0.000329
+. . . . . . . . . ! on iteration 150; training error 0.007734 and weight change 0.000310
+. . . . . . . . . ! on iteration 160; training error 0.007347 and weight change 0.000294
+. . . . . . . . . ! on iteration 170; training error 0.007009 and weight change 0.000279
+. . . . . . . . . ! on iteration 180; training error 0.006711 and weight change 0.000265
+. . . . . . . . . ! on iteration 190; training error 0.006445 and weight change 0.000253
+. . . . . . . . . Finished after 200 iterations at time 13:22:42.863789 with training error 0.006229 and weight change 0.000243
+Feed Forward Test correctly classified 1298, incorrectly classified 230, test percent error  0.849476
+
+Starting training at time 13:22:42.921342 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.009300 and weight change 0.000697
+. . . . . . . . . ! on iteration 20; training error 0.007644 and weight change 0.000530
+. . . . . . . . . ! on iteration 30; training error 0.007100 and weight change 0.000466
+. . . . . . . . . ! on iteration 40; training error 0.006823 and weight change 0.000442
+. . . . . . . . . ! on iteration 50; training error 0.006625 and weight change 0.000427
+. . . . . . . . . ! on iteration 60; training error 0.006481 and weight change 0.000416
+. . . . . . . . . ! on iteration 70; training error 0.006367 and weight change 0.000410
+. . . . . . . . . ! on iteration 80; training error 0.006268 and weight change 0.000406
+. . . . . . . . . ! on iteration 90; training error 0.006176 and weight change 0.000403
+. . . . . . . . . ! on iteration 100; training error 0.006085 and weight change 0.000398
+. . . . . . . . . ! on iteration 110; training error 0.005991 and weight change 0.000393
+. . . . . . . . . ! on iteration 120; training error 0.005887 and weight change 0.000388
+. . . . . . . . . ! on iteration 130; training error 0.005774 and weight change 0.000383
+. . . . . . . . . ! on iteration 140; training error 0.005657 and weight change 0.000377
+. . . . . . . . . ! on iteration 150; training error 0.005555 and weight change 0.000368
+. . . . . . . . . ! on iteration 160; training error 0.005466 and weight change 0.000355
+. . . . . . . . . ! on iteration 170; training error 0.005393 and weight change 0.000343
+. . . . . . . . . ! on iteration 180; training error 0.005335 and weight change 0.000334
+. . . . . . . . . ! on iteration 190; training error 0.005288 and weight change 0.000325
+. . . . . . . . . Finished after 200 iterations at time 13:28:25.899647 with training error 0.005253 and weight change 0.000319
+Feed Forward Test correctly classified 2968, incorrectly classified 530, test percent error  0.848485
+
+Starting training at time 13:28:26.087275 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.044975 and weight change 0.000866
+. . . . . . . . . ! on iteration 20; training error 0.029622 and weight change 0.000799
+. . . . . . . . . ! on iteration 30; training error 0.024072 and weight change 0.000745
+. . . . . . . . . ! on iteration 40; training error 0.020422 and weight change 0.000702
+. . . . . . . . . ! on iteration 50; training error 0.017451 and weight change 0.000664
+. . . . . . . . . ! on iteration 60; training error 0.015094 and weight change 0.000623
+. . . . . . . . . ! on iteration 70; training error 0.013324 and weight change 0.000579
+. . . . . . . . . ! on iteration 80; training error 0.011989 and weight change 0.000540
+. . . . . . . . . ! on iteration 90; training error 0.010960 and weight change 0.000506
+. . . . . . . . . ! on iteration 100; training error 0.010142 and weight change 0.000476
+. . . . . . . . . ! on iteration 110; training error 0.009468 and weight change 0.000452
+. . . . . . . . . ! on iteration 120; training error 0.008898 and weight change 0.000430
+. . . . . . . . . ! on iteration 130; training error 0.008406 and weight change 0.000410
+. . . . . . . . . ! on iteration 140; training error 0.007975 and weight change 0.000391
+. . . . . . . . . ! on iteration 150; training error 0.007591 and weight change 0.000373
+. . . . . . . . . ! on iteration 160; training error 0.007245 and weight change 0.000356
+. . . . . . . . . ! on iteration 170; training error 0.006928 and weight change 0.000339
+. . . . . . . . . ! on iteration 180; training error 0.006634 and weight change 0.000322
+. . . . . . . . . ! on iteration 190; training error 0.006360 and weight change 0.000306
+. . . . . . . . . Finished after 200 iterations at time 13:28:33.161825 with training error 0.006130 and weight change 0.000292
+Feed Forward Test correctly classified 1283, incorrectly classified 245, test percent error  0.839660
+
+Starting training at time 13:28:33.223855 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.011204 and weight change 0.000865
+. . . . . . . . . ! on iteration 20; training error 0.008869 and weight change 0.000668
+. . . . . . . . . ! on iteration 30; training error 0.007705 and weight change 0.000565
+. . . . . . . . . ! on iteration 40; training error 0.006730 and weight change 0.000479
+. . . . . . . . . ! on iteration 50; training error 0.006150 and weight change 0.000446
+. . . . . . . . . ! on iteration 60; training error 0.005740 and weight change 0.000438
+. . . . . . . . . ! on iteration 70; training error 0.005495 and weight change 0.000429
+. . . . . . . . . ! on iteration 80; training error 0.005272 and weight change 0.000432
+. . . . . . . . . ! on iteration 90; training error 0.005131 and weight change 0.000419
+. . . . . . . . . ! on iteration 100; training error 0.005033 and weight change 0.000408
+. . . . . . . . . ! on iteration 110; training error 0.004957 and weight change 0.000398
+. . . . . . . . . ! on iteration 120; training error 0.004895 and weight change 0.000390
+. . . . . . . . . ! on iteration 130; training error 0.004842 and weight change 0.000384
+. . . . . . . . . ! on iteration 140; training error 0.004798 and weight change 0.000377
+. . . . . . . . . ! on iteration 150; training error 0.004760 and weight change 0.000371
+. . . . . . . . . ! on iteration 160; training error 0.004728 and weight change 0.000366
+. . . . . . . . . ! on iteration 170; training error 0.004700 and weight change 0.000363
+. . . . . . . . . ! on iteration 180; training error 0.004674 and weight change 0.000359
+. . . . . . . . . ! on iteration 190; training error 0.004651 and weight change 0.000355
+. . . . . . . . . Finished after 200 iterations at time 13:34:15.081491 with training error 0.004632 and weight change 0.000352
+Feed Forward Test correctly classified 3031, incorrectly classified 467, test percent error  0.866495
+
+Starting training at time 13:34:15.259105 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.040551 and weight change 0.000884
+. . . . . . . . . ! on iteration 20; training error 0.027889 and weight change 0.000789
+. . . . . . . . . ! on iteration 30; training error 0.022976 and weight change 0.000752
+. . . . . . . . . ! on iteration 40; training error 0.019453 and weight change 0.000708
+. . . . . . . . . ! on iteration 50; training error 0.017004 and weight change 0.000663
+. . . . . . . . . ! on iteration 60; training error 0.015189 and weight change 0.000622
+. . . . . . . . . ! on iteration 70; training error 0.013721 and weight change 0.000584
+. . . . . . . . . ! on iteration 80; training error 0.012480 and weight change 0.000548
+. . . . . . . . . ! on iteration 90; training error 0.011411 and weight change 0.000513
+. . . . . . . . . ! on iteration 100; training error 0.010482 and weight change 0.000480
+. . . . . . . . . ! on iteration 110; training error 0.009668 and weight change 0.000448
+. . . . . . . . . ! on iteration 120; training error 0.008948 and weight change 0.000419
+. . . . . . . . . ! on iteration 130; training error 0.008306 and weight change 0.000391
+. . . . . . . . . ! on iteration 140; training error 0.007728 and weight change 0.000364
+. . . . . . . . . ! on iteration 150; training error 0.007209 and weight change 0.000340
+. . . . . . . . . ! on iteration 160; training error 0.006745 and weight change 0.000316
+. . . . . . . . . ! on iteration 170; training error 0.006334 and weight change 0.000295
+. . . . . . . . . ! on iteration 180; training error 0.005971 and weight change 0.000275
+. . . . . . . . . ! on iteration 190; training error 0.005648 and weight change 0.000257
+. . . . . . . . . Finished after 200 iterations at time 13:34:21.658077 with training error 0.005388 and weight change 0.000242
+Feed Forward Test correctly classified 1289, incorrectly classified 239, test percent error  0.843586
+
+Starting training at time 13:34:21.712695 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.010100 and weight change 0.000655
+. . . . . . . . . ! on iteration 20; training error 0.008542 and weight change 0.000616
+. . . . . . . . . ! on iteration 30; training error 0.007723 and weight change 0.000595
+. . . . . . . . . ! on iteration 40; training error 0.007216 and weight change 0.000563
+. . . . . . . . . ! on iteration 50; training error 0.006888 and weight change 0.000535
+. . . . . . . . . ! on iteration 60; training error 0.006658 and weight change 0.000514
+. . . . . . . . . ! on iteration 70; training error 0.006470 and weight change 0.000502
+. . . . . . . . . ! on iteration 80; training error 0.006320 and weight change 0.000490
+. . . . . . . . . ! on iteration 90; training error 0.006199 and weight change 0.000479
+. . . . . . . . . ! on iteration 100; training error 0.006097 and weight change 0.000468
+. . . . . . . . . ! on iteration 110; training error 0.006007 and weight change 0.000458
+. . . . . . . . . ! on iteration 120; training error 0.005926 and weight change 0.000448
+. . . . . . . . . ! on iteration 130; training error 0.005854 and weight change 0.000438
+. . . . . . . . . ! on iteration 140; training error 0.005792 and weight change 0.000428
+. . . . . . . . . ! on iteration 150; training error 0.005740 and weight change 0.000418
+. . . . . . . . . ! on iteration 160; training error 0.005699 and weight change 0.000409
+. . . . . . . . . ! on iteration 170; training error 0.005664 and weight change 0.000402
+. . . . . . . . . ! on iteration 180; training error 0.005634 and weight change 0.000395
+. . . . . . . . . ! on iteration 190; training error 0.005608 and weight change 0.000389
+. . . . . . . . . Finished after 200 iterations at time 13:39:28.838496 with training error 0.005587 and weight change 0.000385
+Feed Forward Test correctly classified 2926, incorrectly classified 572, test percent error  0.836478
+
+Starting training at time 13:39:29.010282 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.038960 and weight change 0.000801
+. . . . . . . . . ! on iteration 20; training error 0.028461 and weight change 0.000720
+. . . . . . . . . ! on iteration 30; training error 0.024314 and weight change 0.000682
+. . . . . . . . . ! on iteration 40; training error 0.021178 and weight change 0.000647
+. . . . . . . . . ! on iteration 50; training error 0.018392 and weight change 0.000611
+. . . . . . . . . ! on iteration 60; training error 0.015883 and weight change 0.000572
+. . . . . . . . . ! on iteration 70; training error 0.013777 and weight change 0.000530
+. . . . . . . . . ! on iteration 80; training error 0.012118 and weight change 0.000487
+. . . . . . . . . ! on iteration 90; training error 0.010827 and weight change 0.000448
+. . . . . . . . . ! on iteration 100; training error 0.009795 and weight change 0.000414
+. . . . . . . . . ! on iteration 110; training error 0.008937 and weight change 0.000384
+. . . . . . . . . ! on iteration 120; training error 0.008199 and weight change 0.000357
+. . . . . . . . . ! on iteration 130; training error 0.007547 and weight change 0.000333
+. . . . . . . . . ! on iteration 140; training error 0.006958 and weight change 0.000311
+. . . . . . . . . ! on iteration 150; training error 0.006419 and weight change 0.000291
+. . . . . . . . . ! on iteration 160; training error 0.005922 and weight change 0.000272
+. . . . . . . . . ! on iteration 170; training error 0.005464 and weight change 0.000254
+. . . . . . . . . ! on iteration 180; training error 0.005044 and weight change 0.000238
+. . . . . . . . . ! on iteration 190; training error 0.004660 and weight change 0.000223
+. . . . . . . . . Finished after 200 iterations at time 13:39:35.311730 with training error 0.004343 and weight change 0.000211
+Feed Forward Test correctly classified 1311, incorrectly classified 217, test percent error  0.857984
+
+Starting training at time 13:39:35.367346 with 16 inputs, 10 outputs, [5] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.009957 and weight change 0.000643
+. . . . . . . . . ! on iteration 20; training error 0.008163 and weight change 0.000532
+. . . . . . . . . ! on iteration 30; training error 0.007569 and weight change 0.000482
+. . . . . . . . . ! on iteration 40; training error 0.007242 and weight change 0.000453
+. . . . . . . . . ! on iteration 50; training error 0.007010 and weight change 0.000437
+. . . . . . . . . ! on iteration 60; training error 0.006843 and weight change 0.000422
+. . . . . . . . . ! on iteration 70; training error 0.006715 and weight change 0.000407
+. . . . . . . . . ! on iteration 80; training error 0.006614 and weight change 0.000394
+. . . . . . . . . ! on iteration 90; training error 0.006535 and weight change 0.000384
+. . . . . . . . . ! on iteration 100; training error 0.006474 and weight change 0.000376
+. . . . . . . . . ! on iteration 110; training error 0.006426 and weight change 0.000371
+. . . . . . . . . ! on iteration 120; training error 0.006388 and weight change 0.000367
+. . . . . . . . . ! on iteration 130; training error 0.006356 and weight change 0.000364
+. . . . . . . . . ! on iteration 140; training error 0.006329 and weight change 0.000361
+. . . . . . . . . ! on iteration 150; training error 0.006306 and weight change 0.000358
+. . . . . . . . . ! on iteration 160; training error 0.006287 and weight change 0.000355
+. . . . . . . . . ! on iteration 170; training error 0.006270 and weight change 0.000353
+. . . . . . . . . ! on iteration 180; training error 0.006254 and weight change 0.000351
+. . . . . . . . . ! on iteration 190; training error 0.006240 and weight change 0.000349
+. . . . . . . . . Finished after 200 iterations at time 13:45:07.968892 with training error 0.006229 and weight change 0.000348
+Feed Forward Test correctly classified 2986, incorrectly classified 512, test percent error  0.853631
+
+Starting training at time 13:45:08.156852 with 21 inputs, 4 outputs, [5] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.040745 and weight change 0.000806
+. . . . . . . . . ! on iteration 20; training error 0.029754 and weight change 0.000729
+. . . . . . . . . ! on iteration 30; training error 0.025528 and weight change 0.000694
+. . . . . . . . . ! on iteration 40; training error 0.022236 and weight change 0.000678
+. . . . . . . . . ! on iteration 50; training error 0.019056 and weight change 0.000662
+. . . . . . . . . ! on iteration 60; training error 0.016311 and weight change 0.000626
+. . . . . . . . . ! on iteration 70; training error 0.014100 and weight change 0.000580
+. . . . . . . . . ! on iteration 80; training error 0.012293 and weight change 0.000531
+. . . . . . . . . ! on iteration 90; training error 0.010822 and weight change 0.000484
+. . . . . . . . . ! on iteration 100; training error 0.009641 and weight change 0.000441
+. . . . . . . . . ! on iteration 110; training error 0.008686 and weight change 0.000404
+. . . . . . . . . ! on iteration 120; training error 0.007902 and weight change 0.000371
+. . . . . . . . . ! on iteration 130; training error 0.007245 and weight change 0.000343
+. . . . . . . . . ! on iteration 140; training error 0.006685 and weight change 0.000317
+. . . . . . . . . ! on iteration 150; training error 0.006200 and weight change 0.000295
+. . . . . . . . . ! on iteration 160; training error 0.005773 and weight change 0.000276
+. . . . . . . . . ! on iteration 170; training error 0.005391 and weight change 0.000258
+. . . . . . . . . ! on iteration 180; training error 0.005044 and weight change 0.000243
+. . . . . . . . . ! on iteration 190; training error 0.004724 and weight change 0.000230
+. . . . . . . . . Finished after 200 iterations at time 13:45:15.316195 with training error 0.004452 and weight change 0.000219
+Feed Forward Test correctly classified 1294, incorrectly classified 234, test percent error  0.846859
+
+('PEN DATA AVERAGE:', 0.8463693539165238)
+('CAR DATA AVERAGE:', 0.8475130890052356)
+('PEN DATA MAX:', 0.8664951400800457)
+('CAR DATA MAX:', 0.8579842931937173)
+('STD DEV OF PEN DATA:', 0.01374545377679744)
+('STD DEV OF CAR DATA:', 0.006181004687496143)
+Starting training at time 13:45:15.380938 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.006689 and weight change 0.000401
+. . . . . . . . . ! on iteration 20; training error 0.005316 and weight change 0.000324
+. . . . . . . . . ! on iteration 30; training error 0.004628 and weight change 0.000279
+. . . . . . . . . ! on iteration 40; training error 0.004215 and weight change 0.000248
+. . . . . . . . . ! on iteration 50; training error 0.003937 and weight change 0.000225
+. . . . . . . . . ! on iteration 60; training error 0.003739 and weight change 0.000207
+. . . . . . . . . ! on iteration 70; training error 0.003596 and weight change 0.000192
+. . . . . . . . . ! on iteration 80; training error 0.003491 and weight change 0.000179
+. . . . . . . . . ! on iteration 90; training error 0.003409 and weight change 0.000169
+. . . . . . . . . ! on iteration 100; training error 0.003344 and weight change 0.000161
+. . . . . . . . . ! on iteration 110; training error 0.003291 and weight change 0.000154
+. . . . . . . . . ! on iteration 120; training error 0.003247 and weight change 0.000148
+. . . . . . . . . ! on iteration 130; training error 0.003211 and weight change 0.000142
+. . . . . . . . . ! on iteration 140; training error 0.003179 and weight change 0.000138
+. . . . . . . . . ! on iteration 150; training error 0.003152 and weight change 0.000134
+. . . . . . . . . ! on iteration 160; training error 0.003128 and weight change 0.000131
+. . . . . . . . . ! on iteration 170; training error 0.003107 and weight change 0.000128
+. . . . . . . . . ! on iteration 180; training error 0.003087 and weight change 0.000125
+. . . . . . . . . ! on iteration 190; training error 0.003069 and weight change 0.000122
+. . . . . . . . . Finished after 200 iterations at time 13:54:44.887413 with training error 0.003054 and weight change 0.000120
+Feed Forward Test correctly classified 3070, incorrectly classified 428, test percent error  0.877644
+
+Starting training at time 13:54:45.202206 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.033989 and weight change 0.000629
+. . . . . . . . . ! on iteration 20; training error 0.024512 and weight change 0.000541
+. . . . . . . . . ! on iteration 30; training error 0.020464 and weight change 0.000496
+. . . . . . . . . ! on iteration 40; training error 0.017874 and weight change 0.000463
+. . . . . . . . . ! on iteration 50; training error 0.015825 and weight change 0.000435
+. . . . . . . . . ! on iteration 60; training error 0.014013 and weight change 0.000409
+. . . . . . . . . ! on iteration 70; training error 0.012339 and weight change 0.000382
+. . . . . . . . . ! on iteration 80; training error 0.010808 and weight change 0.000355
+. . . . . . . . . ! on iteration 90; training error 0.009443 and weight change 0.000328
+. . . . . . . . . ! on iteration 100; training error 0.008249 and weight change 0.000302
+. . . . . . . . . ! on iteration 110; training error 0.007226 and weight change 0.000277
+. . . . . . . . . ! on iteration 120; training error 0.006356 and weight change 0.000255
+. . . . . . . . . ! on iteration 130; training error 0.005620 and weight change 0.000234
+. . . . . . . . . ! on iteration 140; training error 0.004995 and weight change 0.000216
+. . . . . . . . . ! on iteration 150; training error 0.004463 and weight change 0.000200
+. . . . . . . . . ! on iteration 160; training error 0.004006 and weight change 0.000185
+. . . . . . . . . ! on iteration 170; training error 0.003611 and weight change 0.000171
+. . . . . . . . . ! on iteration 180; training error 0.003270 and weight change 0.000159
+. . . . . . . . . ! on iteration 190; training error 0.002972 and weight change 0.000149
+. . . . . . . . . Finished after 200 iterations at time 13:54:58.061408 with training error 0.002737 and weight change 0.000140
+Feed Forward Test correctly classified 1301, incorrectly classified 227, test percent error  0.851440
+
+Starting training at time 13:54:58.174230 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.006733 and weight change 0.000355
+. . . . . . . . . ! on iteration 20; training error 0.005567 and weight change 0.000265
+. . . . . . . . . ! on iteration 30; training error 0.005051 and weight change 0.000225
+. . . . . . . . . ! on iteration 40; training error 0.004733 and weight change 0.000201
+. . . . . . . . . ! on iteration 50; training error 0.004504 and weight change 0.000184
+. . . . . . . . . ! on iteration 60; training error 0.004336 and weight change 0.000170
+. . . . . . . . . ! on iteration 70; training error 0.004209 and weight change 0.000160
+. . . . . . . . . ! on iteration 80; training error 0.004103 and weight change 0.000152
+. . . . . . . . . ! on iteration 90; training error 0.004003 and weight change 0.000146
+. . . . . . . . . ! on iteration 100; training error 0.003924 and weight change 0.000139
+. . . . . . . . . ! on iteration 110; training error 0.003860 and weight change 0.000132
+. . . . . . . . . ! on iteration 120; training error 0.003807 and weight change 0.000126
+. . . . . . . . . ! on iteration 130; training error 0.003761 and weight change 0.000122
+. . . . . . . . . ! on iteration 140; training error 0.003720 and weight change 0.000117
+. . . . . . . . . ! on iteration 150; training error 0.003685 and weight change 0.000114
+. . . . . . . . . ! on iteration 160; training error 0.003653 and weight change 0.000110
+. . . . . . . . . ! on iteration 170; training error 0.003625 and weight change 0.000107
+. . . . . . . . . ! on iteration 180; training error 0.003599 and weight change 0.000104
+. . . . . . . . . ! on iteration 190; training error 0.003577 and weight change 0.000102
+. . . . . . . . . Finished after 200 iterations at time 14:03:47.122320 with training error 0.003558 and weight change 0.000099
+Feed Forward Test correctly classified 3131, incorrectly classified 367, test percent error  0.895083
+
+Starting training at time 14:03:47.446436 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.040064 and weight change 0.000641
+. . . . . . . . . ! on iteration 20; training error 0.027716 and weight change 0.000555
+. . . . . . . . . ! on iteration 30; training error 0.022551 and weight change 0.000518
+. . . . . . . . . ! on iteration 40; training error 0.019152 and weight change 0.000480
+. . . . . . . . . ! on iteration 50; training error 0.016739 and weight change 0.000445
+. . . . . . . . . ! on iteration 60; training error 0.014803 and weight change 0.000414
+. . . . . . . . . ! on iteration 70; training error 0.013140 and weight change 0.000384
+. . . . . . . . . ! on iteration 80; training error 0.011697 and weight change 0.000356
+. . . . . . . . . ! on iteration 90; training error 0.010456 and weight change 0.000329
+. . . . . . . . . ! on iteration 100; training error 0.009400 and weight change 0.000303
+. . . . . . . . . ! on iteration 110; training error 0.008516 and weight change 0.000278
+. . . . . . . . . ! on iteration 120; training error 0.007782 and weight change 0.000256
+. . . . . . . . . ! on iteration 130; training error 0.007168 and weight change 0.000236
+. . . . . . . . . ! on iteration 140; training error 0.006648 and weight change 0.000218
+. . . . . . . . . ! on iteration 150; training error 0.006202 and weight change 0.000203
+. . . . . . . . . ! on iteration 160; training error 0.005815 and weight change 0.000189
+. . . . . . . . . ! on iteration 170; training error 0.005476 and weight change 0.000176
+. . . . . . . . . ! on iteration 180; training error 0.005177 and weight change 0.000164
+. . . . . . . . . ! on iteration 190; training error 0.004912 and weight change 0.000154
+. . . . . . . . . Finished after 200 iterations at time 14:03:59.920028 with training error 0.004699 and weight change 0.000145
+Feed Forward Test correctly classified 1292, incorrectly classified 236, test percent error  0.845550
+
+Starting training at time 14:04:00.018517 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.007099 and weight change 0.000361
+. . . . . . . . . ! on iteration 20; training error 0.005390 and weight change 0.000295
+. . . . . . . . . ! on iteration 30; training error 0.004585 and weight change 0.000235
+. . . . . . . . . ! on iteration 40; training error 0.004163 and weight change 0.000199
+. . . . . . . . . ! on iteration 50; training error 0.003893 and weight change 0.000174
+. . . . . . . . . ! on iteration 60; training error 0.003713 and weight change 0.000157
+. . . . . . . . . ! on iteration 70; training error 0.003587 and weight change 0.000146
+. . . . . . . . . ! on iteration 80; training error 0.003492 and weight change 0.000138
+. . . . . . . . . ! on iteration 90; training error 0.003411 and weight change 0.000132
+. . . . . . . . . ! on iteration 100; training error 0.003341 and weight change 0.000126
+. . . . . . . . . ! on iteration 110; training error 0.003286 and weight change 0.000120
+. . . . . . . . . ! on iteration 120; training error 0.003240 and weight change 0.000116
+. . . . . . . . . ! on iteration 130; training error 0.003201 and weight change 0.000112
+. . . . . . . . . ! on iteration 140; training error 0.003167 and weight change 0.000109
+. . . . . . . . . ! on iteration 150; training error 0.003136 and weight change 0.000106
+. . . . . . . . . ! on iteration 160; training error 0.003108 and weight change 0.000103
+. . . . . . . . . ! on iteration 170; training error 0.003082 and weight change 0.000100
+. . . . . . . . . ! on iteration 180; training error 0.003058 and weight change 0.000097
+. . . . . . . . . ! on iteration 190; training error 0.003036 and weight change 0.000095
+. . . . . . . . . Finished after 200 iterations at time 14:12:40.887001 with training error 0.003018 and weight change 0.000093
+Feed Forward Test correctly classified 3098, incorrectly classified 400, test percent error  0.885649
+
+Starting training at time 14:12:41.194345 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.033269 and weight change 0.000589
+. . . . . . . . . ! on iteration 20; training error 0.025874 and weight change 0.000535
+. . . . . . . . . ! on iteration 30; training error 0.021555 and weight change 0.000511
+. . . . . . . . . ! on iteration 40; training error 0.018391 and weight change 0.000481
+. . . . . . . . . ! on iteration 50; training error 0.016059 and weight change 0.000450
+. . . . . . . . . ! on iteration 60; training error 0.014205 and weight change 0.000420
+. . . . . . . . . ! on iteration 70; training error 0.012673 and weight change 0.000393
+. . . . . . . . . ! on iteration 80; training error 0.011350 and weight change 0.000368
+. . . . . . . . . ! on iteration 90; training error 0.010162 and weight change 0.000344
+. . . . . . . . . ! on iteration 100; training error 0.009071 and weight change 0.000320
+. . . . . . . . . ! on iteration 110; training error 0.008062 and weight change 0.000298
+. . . . . . . . . ! on iteration 120; training error 0.007137 and weight change 0.000276
+. . . . . . . . . ! on iteration 130; training error 0.006303 and weight change 0.000255
+. . . . . . . . . ! on iteration 140; training error 0.005565 and weight change 0.000234
+. . . . . . . . . ! on iteration 150; training error 0.004923 and weight change 0.000216
+. . . . . . . . . ! on iteration 160; training error 0.004369 and weight change 0.000199
+. . . . . . . . . ! on iteration 170; training error 0.003893 and weight change 0.000183
+. . . . . . . . . ! on iteration 180; training error 0.003485 and weight change 0.000169
+. . . . . . . . . ! on iteration 190; training error 0.003135 and weight change 0.000156
+. . . . . . . . . Finished after 200 iterations at time 14:12:54.207008 with training error 0.002862 and weight change 0.000146
+Feed Forward Test correctly classified 1316, incorrectly classified 212, test percent error  0.861257
+
+Starting training at time 14:12:54.314615 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.006462 and weight change 0.000409
+. . . . . . . . . ! on iteration 20; training error 0.005139 and weight change 0.000303
+. . . . . . . . . ! on iteration 30; training error 0.004544 and weight change 0.000249
+. . . . . . . . . ! on iteration 40; training error 0.004202 and weight change 0.000216
+. . . . . . . . . ! on iteration 50; training error 0.003975 and weight change 0.000194
+. . . . . . . . . ! on iteration 60; training error 0.003805 and weight change 0.000179
+. . . . . . . . . ! on iteration 70; training error 0.003654 and weight change 0.000168
+. . . . . . . . . ! on iteration 80; training error 0.003505 and weight change 0.000157
+. . . . . . . . . ! on iteration 90; training error 0.003385 and weight change 0.000143
+. . . . . . . . . ! on iteration 100; training error 0.003292 and weight change 0.000132
+. . . . . . . . . ! on iteration 110; training error 0.003218 and weight change 0.000124
+. . . . . . . . . ! on iteration 120; training error 0.003158 and weight change 0.000117
+. . . . . . . . . ! on iteration 130; training error 0.003094 and weight change 0.000114
+. . . . . . . . . ! on iteration 140; training error 0.002971 and weight change 0.000112
+. . . . . . . . . ! on iteration 150; training error 0.002917 and weight change 0.000107
+. . . . . . . . . ! on iteration 160; training error 0.002881 and weight change 0.000103
+. . . . . . . . . ! on iteration 170; training error 0.002850 and weight change 0.000100
+. . . . . . . . . ! on iteration 180; training error 0.002824 and weight change 0.000097
+. . . . . . . . . ! on iteration 190; training error 0.002802 and weight change 0.000094
+. . . . . . . . . Finished after 200 iterations at time 14:21:53.124668 with training error 0.002783 and weight change 0.000092
+Feed Forward Test correctly classified 3094, incorrectly classified 404, test percent error  0.884505
+
+Starting training at time 14:21:53.394038 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.034292 and weight change 0.000604
+. . . . . . . . . ! on iteration 20; training error 0.026672 and weight change 0.000538
+. . . . . . . . . ! on iteration 30; training error 0.022384 and weight change 0.000507
+. . . . . . . . . ! on iteration 40; training error 0.019081 and weight change 0.000473
+. . . . . . . . . ! on iteration 50; training error 0.016598 and weight change 0.000440
+. . . . . . . . . ! on iteration 60; training error 0.014579 and weight change 0.000409
+. . . . . . . . . ! on iteration 70; training error 0.012817 and weight change 0.000380
+. . . . . . . . . ! on iteration 80; training error 0.011202 and weight change 0.000351
+. . . . . . . . . ! on iteration 90; training error 0.009705 and weight change 0.000322
+. . . . . . . . . ! on iteration 100; training error 0.008358 and weight change 0.000293
+. . . . . . . . . ! on iteration 110; training error 0.007184 and weight change 0.000265
+. . . . . . . . . ! on iteration 120; training error 0.006174 and weight change 0.000240
+. . . . . . . . . ! on iteration 130; training error 0.005307 and weight change 0.000218
+. . . . . . . . . ! on iteration 140; training error 0.004572 and weight change 0.000198
+. . . . . . . . . ! on iteration 150; training error 0.003957 and weight change 0.000180
+. . . . . . . . . ! on iteration 160; training error 0.003449 and weight change 0.000163
+. . . . . . . . . ! on iteration 170; training error 0.003029 and weight change 0.000149
+. . . . . . . . . ! on iteration 180; training error 0.002681 and weight change 0.000136
+. . . . . . . . . ! on iteration 190; training error 0.002392 and weight change 0.000125
+. . . . . . . . . Finished after 200 iterations at time 14:22:04.747131 with training error 0.002171 and weight change 0.000116
+Feed Forward Test correctly classified 1316, incorrectly classified 212, test percent error  0.861257
+
+Starting training at time 14:22:04.842794 with 16 inputs, 10 outputs, [10] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.007111 and weight change 0.000370
+. . . . . . . . . ! on iteration 20; training error 0.005266 and weight change 0.000293
+. . . . . . . . . ! on iteration 30; training error 0.004469 and weight change 0.000236
+. . . . . . . . . ! on iteration 40; training error 0.004065 and weight change 0.000201
+. . . . . . . . . ! on iteration 50; training error 0.003814 and weight change 0.000177
+. . . . . . . . . ! on iteration 60; training error 0.003573 and weight change 0.000164
+. . . . . . . . . ! on iteration 70; training error 0.003415 and weight change 0.000148
+. . . . . . . . . ! on iteration 80; training error 0.003318 and weight change 0.000138
+. . . . . . . . . ! on iteration 90; training error 0.003241 and weight change 0.000130
+. . . . . . . . . ! on iteration 100; training error 0.003174 and weight change 0.000124
+. . . . . . . . . ! on iteration 110; training error 0.003114 and weight change 0.000119
+. . . . . . . . . ! on iteration 120; training error 0.003062 and weight change 0.000115
+. . . . . . . . . ! on iteration 130; training error 0.003017 and weight change 0.000110
+. . . . . . . . . ! on iteration 140; training error 0.002977 and weight change 0.000106
+. . . . . . . . . ! on iteration 150; training error 0.002941 and weight change 0.000103
+. . . . . . . . . ! on iteration 160; training error 0.002909 and weight change 0.000100
+. . . . . . . . . ! on iteration 170; training error 0.002880 and weight change 0.000097
+. . . . . . . . . ! on iteration 180; training error 0.002854 and weight change 0.000094
+. . . . . . . . . ! on iteration 190; training error 0.002830 and weight change 0.000092
+. . . . . . . . . Finished after 200 iterations at time 14:30:45.850344 with training error 0.002810 and weight change 0.000090
+Feed Forward Test correctly classified 3099, incorrectly classified 399, test percent error  0.885935
+
+Starting training at time 14:30:46.116309 with 21 inputs, 4 outputs, [10] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.044030 and weight change 0.000534
+. . . . . . . . . ! on iteration 20; training error 0.031166 and weight change 0.000516
+. . . . . . . . . ! on iteration 30; training error 0.026335 and weight change 0.000496
+. . . . . . . . . ! on iteration 40; training error 0.022893 and weight change 0.000476
+. . . . . . . . . ! on iteration 50; training error 0.019991 and weight change 0.000450
+. . . . . . . . . ! on iteration 60; training error 0.017634 and weight change 0.000422
+. . . . . . . . . ! on iteration 70; training error 0.015685 and weight change 0.000395
+. . . . . . . . . ! on iteration 80; training error 0.014020 and weight change 0.000370
+. . . . . . . . . ! on iteration 90; training error 0.012550 and weight change 0.000347
+. . . . . . . . . ! on iteration 100; training error 0.011203 and weight change 0.000324
+. . . . . . . . . ! on iteration 110; training error 0.009942 and weight change 0.000303
+. . . . . . . . . ! on iteration 120; training error 0.008764 and weight change 0.000282
+. . . . . . . . . ! on iteration 130; training error 0.007694 and weight change 0.000262
+. . . . . . . . . ! on iteration 140; training error 0.006757 and weight change 0.000242
+. . . . . . . . . ! on iteration 150; training error 0.005949 and weight change 0.000224
+. . . . . . . . . ! on iteration 160; training error 0.005256 and weight change 0.000207
+. . . . . . . . . ! on iteration 170; training error 0.004662 and weight change 0.000192
+. . . . . . . . . ! on iteration 180; training error 0.004151 and weight change 0.000178
+. . . . . . . . . ! on iteration 190; training error 0.003710 and weight change 0.000166
+. . . . . . . . . Finished after 200 iterations at time 14:30:57.465573 with training error 0.003364 and weight change 0.000155
+Feed Forward Test correctly classified 1304, incorrectly classified 224, test percent error  0.853403
+
+('PEN DATA AVERAGE:', 0.8857632933104631)
+('CAR DATA AVERAGE:', 0.8545811518324606)
+('PEN DATA MAX:', 0.8950829045168668)
+('CAR DATA MAX:', 0.8612565445026178)
+('STD DEV OF PEN DATA:', 0.005556920212609642)
+('STD DEV OF CAR DATA:', 0.0060323134145564864)
+Starting training at time 14:30:57.562864 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.006464 and weight change 0.000294
+. . . . . . . . . ! on iteration 20; training error 0.005150 and weight change 0.000208
+. . . . . . . . . ! on iteration 30; training error 0.004599 and weight change 0.000168
+. . . . . . . . . ! on iteration 40; training error 0.004277 and weight change 0.000144
+. . . . . . . . . ! on iteration 50; training error 0.004054 and weight change 0.000127
+. . . . . . . . . ! on iteration 60; training error 0.003894 and weight change 0.000116
+. . . . . . . . . ! on iteration 70; training error 0.003772 and weight change 0.000109
+. . . . . . . . . ! on iteration 80; training error 0.003665 and weight change 0.000104
+. . . . . . . . . ! on iteration 90; training error 0.003569 and weight change 0.000104
+. . . . . . . . . ! on iteration 100; training error 0.003205 and weight change 0.000118
+. . . . . . . . . ! on iteration 110; training error 0.002985 and weight change 0.000113
+. . . . . . . . . ! on iteration 120; training error 0.002878 and weight change 0.000105
+. . . . . . . . . ! on iteration 130; training error 0.002807 and weight change 0.000099
+. . . . . . . . . ! on iteration 140; training error 0.002754 and weight change 0.000094
+. . . . . . . . . ! on iteration 150; training error 0.002710 and weight change 0.000090
+. . . . . . . . . ! on iteration 160; training error 0.002673 and weight change 0.000087
+. . . . . . . . . ! on iteration 170; training error 0.002641 and weight change 0.000084
+. . . . . . . . . ! on iteration 180; training error 0.002613 and weight change 0.000081
+. . . . . . . Finished after 188 iterations at time 14:42:23.626564 with training error 0.002595 and weight change 0.000080
+Feed Forward Test correctly classified 3170, incorrectly classified 328, test percent error  0.906232
+
+Starting training at time 14:42:23.981645 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.039036 and weight change 0.000539
+. . . . . . . . . ! on iteration 20; training error 0.025876 and weight change 0.000457
+. . . . . . . . . ! on iteration 30; training error 0.020793 and weight change 0.000409
+. . . . . . . . . ! on iteration 40; training error 0.017713 and weight change 0.000375
+. . . . . . . . . ! on iteration 50; training error 0.015447 and weight change 0.000347
+. . . . . . . . . ! on iteration 60; training error 0.013621 and weight change 0.000322
+. . . . . . . . . ! on iteration 70; training error 0.012064 and weight change 0.000299
+. . . . . . . . . ! on iteration 80; training error 0.010691 and weight change 0.000278
+. . . . . . . . . ! on iteration 90; training error 0.009456 and weight change 0.000259
+. . . . . . . . . ! on iteration 100; training error 0.008342 and weight change 0.000241
+. . . . . . . . . ! on iteration 110; training error 0.007349 and weight change 0.000223
+. . . . . . . . . ! on iteration 120; training error 0.006479 and weight change 0.000206
+. . . . . . . . . ! on iteration 130; training error 0.005721 and weight change 0.000190
+. . . . . . . . . ! on iteration 140; training error 0.005058 and weight change 0.000175
+. . . . . . . . . ! on iteration 150; training error 0.004476 and weight change 0.000161
+. . . . . . . . . ! on iteration 160; training error 0.003973 and weight change 0.000148
+. . . . . . . . . ! on iteration 170; training error 0.003540 and weight change 0.000136
+. . . . . . . . . ! on iteration 180; training error 0.003164 and weight change 0.000125
+. . . . . . . . . ! on iteration 190; training error 0.002834 and weight change 0.000116
+. . . . . . . . . Finished after 200 iterations at time 14:42:41.116877 with training error 0.002571 and weight change 0.000109
+Feed Forward Test correctly classified 1296, incorrectly classified 232, test percent error  0.848168
+
+Starting training at time 14:42:41.276966 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.006194 and weight change 0.000303
+. . . . . . . . . ! on iteration 20; training error 0.004564 and weight change 0.000213
+. . . . . . . . . ! on iteration 30; training error 0.003899 and weight change 0.000170
+. . . . . . . . . ! on iteration 40; training error 0.003513 and weight change 0.000149
+. . . . . . . . . ! on iteration 50; training error 0.003227 and weight change 0.000134
+. . . . . . . . . ! on iteration 60; training error 0.003061 and weight change 0.000120
+. . . . . . . . . ! on iteration 70; training error 0.002948 and weight change 0.000110
+. . . . . . . . . ! on iteration 80; training error 0.002861 and weight change 0.000103
+. . . . . . . . . ! on iteration 90; training error 0.002790 and weight change 0.000097
+. . . . . . . . . ! on iteration 100; training error 0.002732 and weight change 0.000092
+. . . . . . . . . ! on iteration 110; training error 0.002682 and weight change 0.000087
+. . . . . . . . . ! on iteration 120; training error 0.002640 and weight change 0.000083
+. . . . . . . . . Finished after 130 iterations at time 14:51:15.101776 with training error 0.002606 and weight change 0.000080
+Feed Forward Test correctly classified 3151, incorrectly classified 347, test percent error  0.900800
+
+Starting training at time 14:51:15.514851 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.032979 and weight change 0.000563
+. . . . . . . . . ! on iteration 20; training error 0.024834 and weight change 0.000498
+. . . . . . . . . ! on iteration 30; training error 0.020735 and weight change 0.000448
+. . . . . . . . . ! on iteration 40; training error 0.018048 and weight change 0.000409
+. . . . . . . . . ! on iteration 50; training error 0.016077 and weight change 0.000378
+. . . . . . . . . ! on iteration 60; training error 0.014527 and weight change 0.000352
+. . . . . . . . . ! on iteration 70; training error 0.013214 and weight change 0.000330
+. . . . . . . . . ! on iteration 80; training error 0.012034 and weight change 0.000309
+. . . . . . . . . ! on iteration 90; training error 0.010934 and weight change 0.000290
+. . . . . . . . . ! on iteration 100; training error 0.009900 and weight change 0.000270
+. . . . . . . . . ! on iteration 110; training error 0.008939 and weight change 0.000249
+. . . . . . . . . ! on iteration 120; training error 0.008074 and weight change 0.000228
+. . . . . . . . . ! on iteration 130; training error 0.007317 and weight change 0.000207
+. . . . . . . . . ! on iteration 140; training error 0.006670 and weight change 0.000188
+. . . . . . . . . ! on iteration 150; training error 0.006123 and weight change 0.000170
+. . . . . . . . . ! on iteration 160; training error 0.005665 and weight change 0.000154
+. . . . . . . . . ! on iteration 170; training error 0.005280 and weight change 0.000140
+. . . . . . . . . ! on iteration 180; training error 0.004955 and weight change 0.000128
+. . . . . . . . . ! on iteration 190; training error 0.004677 and weight change 0.000118
+. . . . . . . . . Finished after 200 iterations at time 14:51:34.120946 with training error 0.004459 and weight change 0.000110
+Feed Forward Test correctly classified 1272, incorrectly classified 256, test percent error  0.832461
+
+Starting training at time 14:51:34.272411 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005656 and weight change 0.000289
+. . . . . . . . . ! on iteration 20; training error 0.004341 and weight change 0.000203
+. . . . . . . . . ! on iteration 30; training error 0.003794 and weight change 0.000164
+. . . . . . . . . ! on iteration 40; training error 0.003503 and weight change 0.000140
+. . . . . . . . . ! on iteration 50; training error 0.003335 and weight change 0.000124
+. . . . . . . . . ! on iteration 60; training error 0.003222 and weight change 0.000113
+. . . . . . . . . ! on iteration 70; training error 0.003140 and weight change 0.000104
+. . . . . . . . . ! on iteration 80; training error 0.003077 and weight change 0.000098
+. . . . . . . . . ! on iteration 90; training error 0.003025 and weight change 0.000093
+. . . . . . . . . ! on iteration 100; training error 0.002981 and weight change 0.000089
+. . . . . . . . . ! on iteration 110; training error 0.002943 and weight change 0.000085
+. . . . . . . . . ! on iteration 120; training error 0.002908 and weight change 0.000082
+. . . . . . . . . Finished after 130 iterations at time 15:00:11.951371 with training error 0.002878 and weight change 0.000080
+Feed Forward Test correctly classified 3111, incorrectly classified 387, test percent error  0.889365
+
+Starting training at time 15:00:12.363656 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.035005 and weight change 0.000483
+. . . . . . . . . ! on iteration 20; training error 0.026537 and weight change 0.000428
+. . . . . . . . . ! on iteration 30; training error 0.022209 and weight change 0.000401
+. . . . . . . . . ! on iteration 40; training error 0.018915 and weight change 0.000372
+. . . . . . . . . ! on iteration 50; training error 0.016236 and weight change 0.000344
+. . . . . . . . . ! on iteration 60; training error 0.013968 and weight change 0.000318
+. . . . . . . . . ! on iteration 70; training error 0.012019 and weight change 0.000290
+. . . . . . . . . ! on iteration 80; training error 0.010351 and weight change 0.000262
+. . . . . . . . . ! on iteration 90; training error 0.008969 and weight change 0.000235
+. . . . . . . . . ! on iteration 100; training error 0.007863 and weight change 0.000209
+. . . . . . . . . ! on iteration 110; training error 0.006989 and weight change 0.000187
+. . . . . . . . . ! on iteration 120; training error 0.006293 and weight change 0.000169
+. . . . . . . . . ! on iteration 130; training error 0.005727 and weight change 0.000153
+. . . . . . . . . ! on iteration 140; training error 0.005254 and weight change 0.000141
+. . . . . . . . . ! on iteration 150; training error 0.004846 and weight change 0.000130
+. . . . . . . . . ! on iteration 160; training error 0.004481 and weight change 0.000122
+. . . . . . . . . ! on iteration 170; training error 0.004145 and weight change 0.000116
+. . . . . . . . . ! on iteration 180; training error 0.003828 and weight change 0.000110
+. . . . . . . . . ! on iteration 190; training error 0.003527 and weight change 0.000105
+. . . . . . . . . Finished after 200 iterations at time 15:00:30.846157 with training error 0.003271 and weight change 0.000101
+Feed Forward Test correctly classified 1309, incorrectly classified 219, test percent error  0.856675
+
+Starting training at time 15:00:31.005598 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.006248 and weight change 0.000330
+. . . . . . . . . ! on iteration 20; training error 0.004603 and weight change 0.000232
+. . . . . . . . . ! on iteration 30; training error 0.003975 and weight change 0.000183
+. . . . . . . . . ! on iteration 40; training error 0.003670 and weight change 0.000155
+. . . . . . . . . ! on iteration 50; training error 0.003484 and weight change 0.000137
+. . . . . . . . . ! on iteration 60; training error 0.003354 and weight change 0.000125
+. . . . . . . . . ! on iteration 70; training error 0.003249 and weight change 0.000118
+. . . . . . . . . ! on iteration 80; training error 0.003117 and weight change 0.000115
+. . . . . . . . . ! on iteration 90; training error 0.003033 and weight change 0.000107
+. . . . . . . . . ! on iteration 100; training error 0.002973 and weight change 0.000101
+. . . . . . . . . ! on iteration 110; training error 0.002924 and weight change 0.000096
+. . . . . . . . . ! on iteration 120; training error 0.002882 and weight change 0.000093
+. . . . . . . . . ! on iteration 130; training error 0.002844 and weight change 0.000090
+. . . . . . . . . ! on iteration 140; training error 0.002808 and weight change 0.000088
+. . . . . . . . . ! on iteration 150; training error 0.002775 and weight change 0.000086
+. . . . . . . . . ! on iteration 160; training error 0.002745 and weight change 0.000083
+. . . . . . . . . ! on iteration 170; training error 0.002716 and weight change 0.000081
+. . . Finished after 174 iterations at time 15:12:06.341764 with training error 0.002707 and weight change 0.000080
+Feed Forward Test correctly classified 3168, incorrectly classified 330, test percent error  0.905660
+
+Starting training at time 15:12:06.761583 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.031010 and weight change 0.000502
+. . . . . . . . . ! on iteration 20; training error 0.024226 and weight change 0.000450
+. . . . . . . . . ! on iteration 30; training error 0.020468 and weight change 0.000410
+. . . . . . . . . ! on iteration 40; training error 0.017875 and weight change 0.000377
+. . . . . . . . . ! on iteration 50; training error 0.015849 and weight change 0.000350
+. . . . . . . . . ! on iteration 60; training error 0.014098 and weight change 0.000328
+. . . . . . . . . ! on iteration 70; training error 0.012493 and weight change 0.000308
+. . . . . . . . . ! on iteration 80; training error 0.010971 and weight change 0.000289
+. . . . . . . . . ! on iteration 90; training error 0.009520 and weight change 0.000269
+. . . . . . . . . ! on iteration 100; training error 0.008175 and weight change 0.000248
+. . . . . . . . . ! on iteration 110; training error 0.006987 and weight change 0.000226
+. . . . . . . . . ! on iteration 120; training error 0.005974 and weight change 0.000205
+. . . . . . . . . ! on iteration 130; training error 0.005123 and weight change 0.000186
+. . . . . . . . . ! on iteration 140; training error 0.004413 and weight change 0.000168
+. . . . . . . . . ! on iteration 150; training error 0.003823 and weight change 0.000153
+. . . . . . . . . ! on iteration 160; training error 0.003333 and weight change 0.000138
+. . . . . . . . . ! on iteration 170; training error 0.002926 and weight change 0.000126
+. . . . . . . . . ! on iteration 180; training error 0.002588 and weight change 0.000115
+. . . . . . . . . ! on iteration 190; training error 0.002305 and weight change 0.000105
+. . . . . . . . . Finished after 200 iterations at time 15:12:25.416074 with training error 0.002089 and weight change 0.000097
+Feed Forward Test correctly classified 1314, incorrectly classified 214, test percent error  0.859948
+
+Starting training at time 15:12:25.570143 with 16 inputs, 10 outputs, [15] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.006064 and weight change 0.000315
+. . . . . . . . . ! on iteration 20; training error 0.004332 and weight change 0.000216
+. . . . . . . . . ! on iteration 30; training error 0.003732 and weight change 0.000173
+. . . . . . . . . ! on iteration 40; training error 0.003417 and weight change 0.000146
+. . . . . . . . . ! on iteration 50; training error 0.003232 and weight change 0.000129
+. . . . . . . . . ! on iteration 60; training error 0.003104 and weight change 0.000116
+. . . . . . . . . ! on iteration 70; training error 0.003007 and weight change 0.000107
+. . . . . . . . . ! on iteration 80; training error 0.002929 and weight change 0.000100
+. . . . . . . . . ! on iteration 90; training error 0.002865 and weight change 0.000094
+. . . . . . . . . ! on iteration 100; training error 0.002811 and weight change 0.000089
+. . . . . . . . . ! on iteration 110; training error 0.002765 and weight change 0.000085
+. . . . . . . . . ! on iteration 120; training error 0.002726 and weight change 0.000081
+. . . . Finished after 125 iterations at time 15:20:18.188617 with training error 0.002711 and weight change 0.000080
+Feed Forward Test correctly classified 3158, incorrectly classified 340, test percent error  0.902802
+
+Starting training at time 15:20:18.558142 with 21 inputs, 4 outputs, [15] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.034982 and weight change 0.000560
+. . . . . . . . . ! on iteration 20; training error 0.026547 and weight change 0.000486
+. . . . . . . . . ! on iteration 30; training error 0.022341 and weight change 0.000451
+. . . . . . . . . ! on iteration 40; training error 0.019376 and weight change 0.000420
+. . . . . . . . . ! on iteration 50; training error 0.017094 and weight change 0.000394
+. . . . . . . . . ! on iteration 60; training error 0.015170 and weight change 0.000370
+. . . . . . . . . ! on iteration 70; training error 0.013491 and weight change 0.000347
+. . . . . . . . . ! on iteration 80; training error 0.012010 and weight change 0.000322
+. . . . . . . . . ! on iteration 90; training error 0.010680 and weight change 0.000298
+. . . . . . . . . ! on iteration 100; training error 0.009481 and weight change 0.000273
+. . . . . . . . . ! on iteration 110; training error 0.008413 and weight change 0.000249
+. . . . . . . . . ! on iteration 120; training error 0.007483 and weight change 0.000226
+. . . . . . . . . ! on iteration 130; training error 0.006689 and weight change 0.000205
+. . . . . . . . . ! on iteration 140; training error 0.006013 and weight change 0.000186
+. . . . . . . . . ! on iteration 150; training error 0.005432 and weight change 0.000170
+. . . . . . . . . ! on iteration 160; training error 0.004922 and weight change 0.000156
+. . . . . . . . . ! on iteration 170; training error 0.004463 and weight change 0.000145
+. . . . . . . . . ! on iteration 180; training error 0.004041 and weight change 0.000135
+. . . . . . . . . ! on iteration 190; training error 0.003646 and weight change 0.000127
+. . . . . . . . . Finished after 200 iterations at time 15:20:35.600951 with training error 0.003315 and weight change 0.000120
+Feed Forward Test correctly classified 1260, incorrectly classified 268, test percent error  0.824607
+
+('PEN DATA AVERAGE:', 0.900971983990852)
+('CAR DATA AVERAGE:', 0.8443717277486911)
+('PEN DATA MAX:', 0.906232132647227)
+('CAR DATA MAX:', 0.8599476439790575)
+('STD DEV OF PEN DATA:', 0.0061276591042052995)
+('STD DEV OF CAR DATA:', 0.013717876970234423)
+Starting training at time 15:20:35.738794 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005667 and weight change 0.000263
+. . . . . . . . . ! on iteration 20; training error 0.004251 and weight change 0.000175
+. . . . . . . . . ! on iteration 30; training error 0.003686 and weight change 0.000134
+. . . . . . . . . ! on iteration 40; training error 0.003395 and weight change 0.000112
+. . . . . . . . . ! on iteration 50; training error 0.003209 and weight change 0.000098
+. . . . . . . . . ! on iteration 60; training error 0.003073 and weight change 0.000090
+. . . . . . . . . ! on iteration 70; training error 0.002940 and weight change 0.000089
+. . . . . . . . . ! on iteration 80; training error 0.002791 and weight change 0.000082
+. . . Finished after 84 iterations at time 15:26:58.057534 with training error 0.002764 and weight change 0.000080
+Feed Forward Test correctly classified 3144, incorrectly classified 354, test percent error  0.898799
+
+Starting training at time 15:26:58.513956 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.029610 and weight change 0.000514
+. . . . . . . . . ! on iteration 20; training error 0.022700 and weight change 0.000435
+. . . . . . . . . ! on iteration 30; training error 0.019833 and weight change 0.000395
+. . . . . . . . . ! on iteration 40; training error 0.018031 and weight change 0.000368
+. . . . . . . . . ! on iteration 50; training error 0.016667 and weight change 0.000346
+. . . . . . . . . ! on iteration 60; training error 0.015510 and weight change 0.000328
+. . . . . . . . . ! on iteration 70; training error 0.014445 and weight change 0.000312
+. . . . . . . . . ! on iteration 80; training error 0.013409 and weight change 0.000296
+. . . . . . . . . ! on iteration 90; training error 0.012369 and weight change 0.000281
+. . . . . . . . . ! on iteration 100; training error 0.011316 and weight change 0.000264
+. . . . . . . . . ! on iteration 110; training error 0.010276 and weight change 0.000247
+. . . . . . . . . ! on iteration 120; training error 0.009286 and weight change 0.000229
+. . . . . . . . . ! on iteration 130; training error 0.008369 and weight change 0.000212
+. . . . . . . . . ! on iteration 140; training error 0.007524 and weight change 0.000197
+. . . . . . . . . ! on iteration 150; training error 0.006742 and weight change 0.000183
+. . . . . . . . . ! on iteration 160; training error 0.006018 and weight change 0.000171
+. . . . . . . . . ! on iteration 170; training error 0.005348 and weight change 0.000159
+. . . . . . . . . ! on iteration 180; training error 0.004734 and weight change 0.000148
+. . . . . . . . . ! on iteration 190; training error 0.004183 and weight change 0.000137
+. . . . . . . . . Finished after 200 iterations at time 15:27:20.169171 with training error 0.003740 and weight change 0.000128
+Feed Forward Test correctly classified 1277, incorrectly classified 251, test percent error  0.835733
+
+Starting training at time 15:27:20.345549 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005808 and weight change 0.000271
+. . . . . . . . . ! on iteration 20; training error 0.004324 and weight change 0.000187
+. . . . . . . . . ! on iteration 30; training error 0.003722 and weight change 0.000148
+. . . . . . . . . ! on iteration 40; training error 0.003369 and weight change 0.000126
+. . . . . . . . . ! on iteration 50; training error 0.003134 and weight change 0.000112
+. . . . . . . . . ! on iteration 60; training error 0.002987 and weight change 0.000100
+. . . . . . . . . ! on iteration 70; training error 0.002884 and weight change 0.000091
+. . . . . . . . . ! on iteration 80; training error 0.002806 and weight change 0.000084
+. . . . . . . Finished after 88 iterations at time 15:33:58.112066 with training error 0.002761 and weight change 0.000080
+Feed Forward Test correctly classified 3163, incorrectly classified 335, test percent error  0.904231
+
+Starting training at time 15:33:58.564087 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.032089 and weight change 0.000430
+. . . . . . . . . ! on iteration 20; training error 0.025112 and weight change 0.000397
+. . . . . . . . . ! on iteration 30; training error 0.020754 and weight change 0.000366
+. . . . . . . . . ! on iteration 40; training error 0.017999 and weight change 0.000338
+. . . . . . . . . ! on iteration 50; training error 0.015881 and weight change 0.000315
+. . . . . . . . . ! on iteration 60; training error 0.014018 and weight change 0.000297
+. . . . . . . . . ! on iteration 70; training error 0.012266 and weight change 0.000279
+. . . . . . . . . ! on iteration 80; training error 0.010597 and weight change 0.000259
+. . . . . . . . . ! on iteration 90; training error 0.009067 and weight change 0.000238
+. . . . . . . . . ! on iteration 100; training error 0.007735 and weight change 0.000216
+. . . . . . . . . ! on iteration 110; training error 0.006619 and weight change 0.000195
+. . . . . . . . . ! on iteration 120; training error 0.005696 and weight change 0.000177
+. . . . . . . . . ! on iteration 130; training error 0.004929 and weight change 0.000160
+. . . . . . . . . ! on iteration 140; training error 0.004286 and weight change 0.000145
+. . . . . . . . . ! on iteration 150; training error 0.003735 and weight change 0.000131
+. . . . . . . . . ! on iteration 160; training error 0.003253 and weight change 0.000120
+. . . . . . . . . ! on iteration 170; training error 0.002832 and weight change 0.000110
+. . . . . . . . . ! on iteration 180; training error 0.002477 and weight change 0.000100
+. . . . . . . . . ! on iteration 190; training error 0.002186 and weight change 0.000091
+. . . . . . . . . Finished after 200 iterations at time 15:34:19.663203 with training error 0.001970 and weight change 0.000084
+Feed Forward Test correctly classified 1315, incorrectly classified 213, test percent error  0.860602
+
+Starting training at time 15:34:19.839247 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005542 and weight change 0.000268
+. . . . . . . . . ! on iteration 20; training error 0.004172 and weight change 0.000184
+. . . . . . . . . ! on iteration 30; training error 0.003631 and weight change 0.000146
+. . . . . . . . . ! on iteration 40; training error 0.003309 and weight change 0.000125
+. . . . . . . . . ! on iteration 50; training error 0.003089 and weight change 0.000110
+. . . . . . . . . ! on iteration 60; training error 0.002933 and weight change 0.000099
+. . . . . . . . . ! on iteration 70; training error 0.002816 and weight change 0.000092
+. . . . . . . . . ! on iteration 80; training error 0.002705 and weight change 0.000090
+. . . . . . . . . ! on iteration 90; training error 0.002607 and weight change 0.000082
+. . . . Finished after 95 iterations at time 15:41:30.641613 with training error 0.002579 and weight change 0.000080
+Feed Forward Test correctly classified 3166, incorrectly classified 332, test percent error  0.905089
+
+Starting training at time 15:41:31.089478 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.031817 and weight change 0.000496
+. . . . . . . . . ! on iteration 20; training error 0.023764 and weight change 0.000422
+. . . . . . . . . ! on iteration 30; training error 0.019748 and weight change 0.000375
+. . . . . . . . . ! on iteration 40; training error 0.017238 and weight change 0.000339
+. . . . . . . . . ! on iteration 50; training error 0.015454 and weight change 0.000313
+. . . . . . . . . ! on iteration 60; training error 0.014004 and weight change 0.000293
+. . . . . . . . . ! on iteration 70; training error 0.012708 and weight change 0.000277
+. . . . . . . . . ! on iteration 80; training error 0.011498 and weight change 0.000263
+. . . . . . . . . ! on iteration 90; training error 0.010365 and weight change 0.000249
+. . . . . . . . . ! on iteration 100; training error 0.009308 and weight change 0.000234
+. . . . . . . . . ! on iteration 110; training error 0.008327 and weight change 0.000220
+. . . . . . . . . ! on iteration 120; training error 0.007425 and weight change 0.000205
+. . . . . . . . . ! on iteration 130; training error 0.006611 and weight change 0.000191
+. . . . . . . . . ! on iteration 140; training error 0.005886 and weight change 0.000177
+. . . . . . . . . ! on iteration 150; training error 0.005245 and weight change 0.000164
+. . . . . . . . . ! on iteration 160; training error 0.004672 and weight change 0.000153
+. . . . . . . . . ! on iteration 170; training error 0.004149 and weight change 0.000144
+. . . . . . . . . ! on iteration 180; training error 0.003667 and weight change 0.000135
+. . . . . . . . . ! on iteration 190; training error 0.003234 and weight change 0.000125
+. . . . . . . . . Finished after 200 iterations at time 15:41:52.057079 with training error 0.002895 and weight change 0.000117
+Feed Forward Test correctly classified 1251, incorrectly classified 277, test percent error  0.818717
+
+Starting training at time 15:41:52.236334 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.006033 and weight change 0.000266
+. . . . . . . . . ! on iteration 20; training error 0.004360 and weight change 0.000190
+. . . . . . . . . ! on iteration 30; training error 0.003640 and weight change 0.000149
+. . . . . . . . . ! on iteration 40; training error 0.003286 and weight change 0.000125
+. . . . . . . . . ! on iteration 50; training error 0.003071 and weight change 0.000110
+. . . . . . . . . ! on iteration 60; training error 0.002925 and weight change 0.000099
+. . . . . . . . . ! on iteration 70; training error 0.002820 and weight change 0.000090
+. . . . . . . . . ! on iteration 80; training error 0.002741 and weight change 0.000082
+. . . . Finished after 85 iterations at time 15:48:15.881055 with training error 0.002714 and weight change 0.000080
+Feed Forward Test correctly classified 3137, incorrectly classified 361, test percent error  0.896798
+
+Starting training at time 15:48:16.339888 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.033286 and weight change 0.000519
+. . . . . . . . . ! on iteration 20; training error 0.024553 and weight change 0.000433
+. . . . . . . . . ! on iteration 30; training error 0.020773 and weight change 0.000392
+. . . . . . . . . ! on iteration 40; training error 0.018128 and weight change 0.000365
+. . . . . . . . . ! on iteration 50; training error 0.016054 and weight change 0.000343
+. . . . . . . . . ! on iteration 60; training error 0.014380 and weight change 0.000324
+. . . . . . . . . ! on iteration 70; training error 0.012965 and weight change 0.000306
+. . . . . . . . . ! on iteration 80; training error 0.011685 and weight change 0.000289
+. . . . . . . . . ! on iteration 90; training error 0.010466 and weight change 0.000274
+. . . . . . . . . ! on iteration 100; training error 0.009281 and weight change 0.000257
+. . . . . . . . . ! on iteration 110; training error 0.008147 and weight change 0.000239
+. . . . . . . . . ! on iteration 120; training error 0.007098 and weight change 0.000221
+. . . . . . . . . ! on iteration 130; training error 0.006155 and weight change 0.000203
+. . . . . . . . . ! on iteration 140; training error 0.005318 and weight change 0.000185
+. . . . . . . . . ! on iteration 150; training error 0.004581 and weight change 0.000169
+. . . . . . . . . ! on iteration 160; training error 0.003938 and weight change 0.000154
+. . . . . . . . . ! on iteration 170; training error 0.003390 and weight change 0.000140
+. . . . . . . . . ! on iteration 180; training error 0.002932 and weight change 0.000126
+. . . . . . . . . ! on iteration 190; training error 0.002556 and weight change 0.000113
+. . . . . . . . . Finished after 200 iterations at time 15:48:37.337055 with training error 0.002276 and weight change 0.000103
+Feed Forward Test correctly classified 1302, incorrectly classified 226, test percent error  0.852094
+
+Starting training at time 15:48:37.508697 with 16 inputs, 10 outputs, [20] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005608 and weight change 0.000249
+. . . . . . . . . ! on iteration 20; training error 0.004213 and weight change 0.000174
+. . . . . . . . . ! on iteration 30; training error 0.003627 and weight change 0.000140
+. . . . . . . . . ! on iteration 40; training error 0.003312 and weight change 0.000117
+. . . . . . . . . ! on iteration 50; training error 0.003111 and weight change 0.000103
+. . . . . . . . . ! on iteration 60; training error 0.002969 and weight change 0.000092
+. . . . . . . . . ! on iteration 70; training error 0.002866 and weight change 0.000083
+. . . . . Finished after 76 iterations at time 15:54:19.185154 with training error 0.002825 and weight change 0.000080
+Feed Forward Test correctly classified 3160, incorrectly classified 338, test percent error  0.903373
+
+Starting training at time 15:54:19.646386 with 21 inputs, 4 outputs, [20] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.031459 and weight change 0.000441
+. . . . . . . . . ! on iteration 20; training error 0.025650 and weight change 0.000389
+. . . . . . . . . ! on iteration 30; training error 0.021153 and weight change 0.000378
+. . . . . . . . . ! on iteration 40; training error 0.017407 and weight change 0.000349
+. . . . . . . . . ! on iteration 50; training error 0.014853 and weight change 0.000319
+. . . . . . . . . ! on iteration 60; training error 0.012933 and weight change 0.000295
+. . . . . . . . . ! on iteration 70; training error 0.011345 and weight change 0.000274
+. . . . . . . . . ! on iteration 80; training error 0.009959 and weight change 0.000255
+. . . . . . . . . ! on iteration 90; training error 0.008732 and weight change 0.000235
+. . . . . . . . . ! on iteration 100; training error 0.007657 and weight change 0.000217
+. . . . . . . . . ! on iteration 110; training error 0.006729 and weight change 0.000199
+. . . . . . . . . ! on iteration 120; training error 0.005937 and weight change 0.000183
+. . . . . . . . . ! on iteration 130; training error 0.005264 and weight change 0.000168
+. . . . . . . . . ! on iteration 140; training error 0.004690 and weight change 0.000154
+. . . . . . . . . ! on iteration 150; training error 0.004200 and weight change 0.000142
+. . . . . . . . . ! on iteration 160; training error 0.003777 and weight change 0.000131
+. . . . . . . . . ! on iteration 170; training error 0.003408 and weight change 0.000122
+. . . . . . . . . ! on iteration 180; training error 0.003081 and weight change 0.000114
+. . . . . . . . . ! on iteration 190; training error 0.002787 and weight change 0.000107
+. . . . . . . . . Finished after 200 iterations at time 15:54:40.716773 with training error 0.002545 and weight change 0.000101
+Feed Forward Test correctly classified 1280, incorrectly classified 248, test percent error  0.837696
+
+('PEN DATA AVERAGE:', 0.9016580903373356)
+('CAR DATA AVERAGE:', 0.8409685863874345)
+('PEN DATA MAX:', 0.9050886220697542)
+('CAR DATA MAX:', 0.8606020942408377)
+('STD DEV OF PEN DATA:', 0.0032595066469386412)
+('STD DEV OF CAR DATA:', 0.014439492534577585)
+Starting training at time 15:54:40.894870 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005770 and weight change 0.000253
+. . . . . . . . . ! on iteration 20; training error 0.004246 and weight change 0.000168
+. . . . . . . . . ! on iteration 30; training error 0.003666 and weight change 0.000128
+. . . . . . . . . ! on iteration 40; training error 0.003352 and weight change 0.000106
+. . . . . . . . . ! on iteration 50; training error 0.003170 and weight change 0.000092
+. . . . . . . . . ! on iteration 60; training error 0.003043 and weight change 0.000083
+. . . . . Finished after 66 iterations at time 16:00:45.112115 with training error 0.002989 and weight change 0.000080
+Feed Forward Test correctly classified 3134, incorrectly classified 364, test percent error  0.895941
+
+Starting training at time 16:00:45.642178 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.031139 and weight change 0.000455
+. . . . . . . . . ! on iteration 20; training error 0.023214 and weight change 0.000396
+. . . . . . . . . ! on iteration 30; training error 0.019447 and weight change 0.000357
+. . . . . . . . . ! on iteration 40; training error 0.017102 and weight change 0.000328
+. . . . . . . . . ! on iteration 50; training error 0.015380 and weight change 0.000306
+. . . . . . . . . ! on iteration 60; training error 0.013969 and weight change 0.000288
+. . . . . . . . . ! on iteration 70; training error 0.012725 and weight change 0.000272
+. . . . . . . . . ! on iteration 80; training error 0.011579 and weight change 0.000256
+. . . . . . . . . ! on iteration 90; training error 0.010493 and weight change 0.000242
+. . . . . . . . . ! on iteration 100; training error 0.009446 and weight change 0.000227
+. . . . . . . . . ! on iteration 110; training error 0.008433 and weight change 0.000211
+. . . . . . . . . ! on iteration 120; training error 0.007470 and weight change 0.000196
+. . . . . . . . . ! on iteration 130; training error 0.006580 and weight change 0.000182
+. . . . . . . . . ! on iteration 140; training error 0.005751 and weight change 0.000170
+. . . . . . . . . ! on iteration 150; training error 0.004962 and weight change 0.000158
+. . . . . . . . . ! on iteration 160; training error 0.004231 and weight change 0.000144
+. . . . . . . . . ! on iteration 170; training error 0.003610 and weight change 0.000130
+. . . . . . . . . ! on iteration 180; training error 0.003102 and weight change 0.000116
+. . . . . . . . . ! on iteration 190; training error 0.002686 and weight change 0.000104
+. . . . . . . . . Finished after 200 iterations at time 16:01:11.761719 with training error 0.002375 and weight change 0.000094
+Feed Forward Test correctly classified 1276, incorrectly classified 252, test percent error  0.835079
+
+Starting training at time 16:01:11.974201 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005643 and weight change 0.000237
+. . . . . . . . . ! on iteration 20; training error 0.004137 and weight change 0.000161
+. . . . . . . . . ! on iteration 30; training error 0.003508 and weight change 0.000126
+. . . . . . . . . ! on iteration 40; training error 0.003193 and weight change 0.000102
+. . . . . . . . . ! on iteration 50; training error 0.003002 and weight change 0.000088
+. . . . . . . . Finished after 59 iterations at time 16:06:42.155659 with training error 0.002894 and weight change 0.000079
+Feed Forward Test correctly classified 3147, incorrectly classified 351, test percent error  0.899657
+
+Starting training at time 16:06:42.711665 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.032005 and weight change 0.000443
+. . . . . . . . . ! on iteration 20; training error 0.024412 and weight change 0.000372
+. . . . . . . . . ! on iteration 30; training error 0.020466 and weight change 0.000339
+. . . . . . . . . ! on iteration 40; training error 0.017732 and weight change 0.000314
+. . . . . . . . . ! on iteration 50; training error 0.015653 and weight change 0.000293
+. . . . . . . . . ! on iteration 60; training error 0.013927 and weight change 0.000277
+. . . . . . . . . ! on iteration 70; training error 0.012416 and weight change 0.000262
+. . . . . . . . . ! on iteration 80; training error 0.011050 and weight change 0.000248
+. . . . . . . . . ! on iteration 90; training error 0.009785 and weight change 0.000235
+. . . . . . . . . ! on iteration 100; training error 0.008596 and weight change 0.000220
+. . . . . . . . . ! on iteration 110; training error 0.007491 and weight change 0.000205
+. . . . . . . . . ! on iteration 120; training error 0.006495 and weight change 0.000189
+. . . . . . . . . ! on iteration 130; training error 0.005624 and weight change 0.000172
+. . . . . . . . . ! on iteration 140; training error 0.004881 and weight change 0.000155
+. . . . . . . . . ! on iteration 150; training error 0.004260 and weight change 0.000140
+. . . . . . . . . ! on iteration 160; training error 0.003747 and weight change 0.000126
+. . . . . . . . . ! on iteration 170; training error 0.003324 and weight change 0.000113
+. . . . . . . . . ! on iteration 180; training error 0.002976 and weight change 0.000102
+. . . . . . . . . ! on iteration 190; training error 0.002686 and weight change 0.000093
+. . . . . . . . . Finished after 200 iterations at time 16:07:08.759525 with training error 0.002463 and weight change 0.000086
+Feed Forward Test correctly classified 1236, incorrectly classified 292, test percent error  0.808901
+
+Starting training at time 16:07:08.974721 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005383 and weight change 0.000245
+. . . . . . . . . ! on iteration 20; training error 0.003998 and weight change 0.000167
+. . . . . . . . . ! on iteration 30; training error 0.003447 and weight change 0.000127
+. . . . . . . . . ! on iteration 40; training error 0.003164 and weight change 0.000105
+. . . . . . . . . ! on iteration 50; training error 0.002988 and weight change 0.000090
+. . . . . . . . . ! on iteration 60; training error 0.002867 and weight change 0.000080
+. Finished after 62 iterations at time 16:12:53.051353 with training error 0.002856 and weight change 0.000079
+Feed Forward Test correctly classified 3119, incorrectly classified 379, test percent error  0.891652
+
+Starting training at time 16:12:53.615200 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.035831 and weight change 0.000451
+. . . . . . . . . ! on iteration 20; training error 0.025352 and weight change 0.000392
+. . . . . . . . . ! on iteration 30; training error 0.020508 and weight change 0.000354
+. . . . . . . . . ! on iteration 40; training error 0.017483 and weight change 0.000323
+. . . . . . . . . ! on iteration 50; training error 0.015229 and weight change 0.000298
+. . . . . . . . . ! on iteration 60; training error 0.013407 and weight change 0.000276
+. . . . . . . . . ! on iteration 70; training error 0.011837 and weight change 0.000256
+. . . . . . . . . ! on iteration 80; training error 0.010420 and weight change 0.000239
+. . . . . . . . . ! on iteration 90; training error 0.009110 and weight change 0.000224
+. . . . . . . . . ! on iteration 100; training error 0.007903 and weight change 0.000209
+. . . . . . . . . ! on iteration 110; training error 0.006816 and weight change 0.000193
+. . . . . . . . . ! on iteration 120; training error 0.005864 and weight change 0.000176
+. . . . . . . . . ! on iteration 130; training error 0.005049 and weight change 0.000160
+. . . . . . . . . ! on iteration 140; training error 0.004359 and weight change 0.000145
+. . . . . . . . . ! on iteration 150; training error 0.003779 and weight change 0.000132
+. . . . . . . . . ! on iteration 160; training error 0.003292 and weight change 0.000119
+. . . . . . . . . ! on iteration 170; training error 0.002885 and weight change 0.000108
+. . . . . . . . . ! on iteration 180; training error 0.002544 and weight change 0.000099
+. . . . . . . . . ! on iteration 190; training error 0.002259 and weight change 0.000090
+. . . . . . . . . Finished after 200 iterations at time 16:13:19.718580 with training error 0.002041 and weight change 0.000083
+Feed Forward Test correctly classified 1268, incorrectly classified 260, test percent error  0.829843
+
+Starting training at time 16:13:19.931330 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005455 and weight change 0.000230
+. . . . . . . . . ! on iteration 20; training error 0.004129 and weight change 0.000155
+. . . . . . . . . ! on iteration 30; training error 0.003546 and weight change 0.000121
+. . . . . . . . . ! on iteration 40; training error 0.003247 and weight change 0.000100
+. . . . . . . . . ! on iteration 50; training error 0.003049 and weight change 0.000089
+. . . . . . . . . Finished after 60 iterations at time 16:18:52.669573 with training error 0.002870 and weight change 0.000080
+Feed Forward Test correctly classified 3153, incorrectly classified 345, test percent error  0.901372
+
+Starting training at time 16:18:53.204810 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.029594 and weight change 0.000481
+. . . . . . . . . ! on iteration 20; training error 0.021846 and weight change 0.000405
+. . . . . . . . . ! on iteration 30; training error 0.018344 and weight change 0.000361
+. . . . . . . . . ! on iteration 40; training error 0.016007 and weight change 0.000329
+. . . . . . . . . ! on iteration 50; training error 0.014142 and weight change 0.000302
+. . . . . . . . . ! on iteration 60; training error 0.012529 and weight change 0.000277
+. . . . . . . . . ! on iteration 70; training error 0.011075 and weight change 0.000253
+. . . . . . . . . ! on iteration 80; training error 0.009731 and weight change 0.000232
+. . . . . . . . . ! on iteration 90; training error 0.008463 and weight change 0.000214
+. . . . . . . . . ! on iteration 100; training error 0.007261 and weight change 0.000197
+. . . . . . . . . ! on iteration 110; training error 0.006154 and weight change 0.000179
+. . . . . . . . . ! on iteration 120; training error 0.005188 and weight change 0.000162
+. . . . . . . . . ! on iteration 130; training error 0.004386 and weight change 0.000145
+. . . . . . . . . ! on iteration 140; training error 0.003737 and weight change 0.000130
+. . . . . . . . . ! on iteration 150; training error 0.003216 and weight change 0.000116
+. . . . . . . . . ! on iteration 160; training error 0.002795 and weight change 0.000105
+. . . . . . . . . ! on iteration 170; training error 0.002453 and weight change 0.000094
+. . . . . . . . . ! on iteration 180; training error 0.002172 and weight change 0.000086
+. . . . . . . . Finished after 189 iterations at time 16:19:17.844885 with training error 0.001982 and weight change 0.000080
+Feed Forward Test correctly classified 1293, incorrectly classified 235, test percent error  0.846204
+
+Starting training at time 16:19:18.058740 with 16 inputs, 10 outputs, [25] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005554 and weight change 0.000244
+. . . . . . . . . ! on iteration 20; training error 0.004141 and weight change 0.000161
+. . . . . . . . . ! on iteration 30; training error 0.003543 and weight change 0.000126
+. . . . . . . . . ! on iteration 40; training error 0.003184 and weight change 0.000106
+. . . . . . . . . ! on iteration 50; training error 0.002966 and weight change 0.000090
+. . . . . . . . . Finished after 60 iterations at time 16:24:48.290061 with training error 0.002839 and weight change 0.000079
+Feed Forward Test correctly classified 3150, incorrectly classified 348, test percent error  0.900515
+
+Starting training at time 16:24:48.828795 with 21 inputs, 4 outputs, [25] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.032455 and weight change 0.000427
+. . . . . . . . . ! on iteration 20; training error 0.025595 and weight change 0.000404
+. . . . . . . . . ! on iteration 30; training error 0.020110 and weight change 0.000375
+. . . . . . . . . ! on iteration 40; training error 0.017059 and weight change 0.000337
+. . . . . . . . . ! on iteration 50; training error 0.014931 and weight change 0.000308
+. . . . . . . . . ! on iteration 60; training error 0.013151 and weight change 0.000285
+. . . . . . . . . ! on iteration 70; training error 0.011544 and weight change 0.000265
+. . . . . . . . . ! on iteration 80; training error 0.010059 and weight change 0.000246
+. . . . . . . . . ! on iteration 90; training error 0.008697 and weight change 0.000228
+. . . . . . . . . ! on iteration 100; training error 0.007473 and weight change 0.000209
+. . . . . . . . . ! on iteration 110; training error 0.006402 and weight change 0.000191
+. . . . . . . . . ! on iteration 120; training error 0.005485 and weight change 0.000174
+. . . . . . . . . ! on iteration 130; training error 0.004708 and weight change 0.000157
+. . . . . . . . . ! on iteration 140; training error 0.004056 and weight change 0.000142
+. . . . . . . . . ! on iteration 150; training error 0.003511 and weight change 0.000128
+. . . . . . . . . ! on iteration 160; training error 0.003058 and weight change 0.000116
+. . . . . . . . . ! on iteration 170; training error 0.002682 and weight change 0.000105
+. . . . . . . . . ! on iteration 180; training error 0.002369 and weight change 0.000095
+. . . . . . . . . ! on iteration 190; training error 0.002108 and weight change 0.000087
+. . . . . . . . . Finished after 200 iterations at time 16:25:14.912250 with training error 0.001909 and weight change 0.000080
+Feed Forward Test correctly classified 1288, incorrectly classified 240, test percent error  0.842932
+
+('PEN DATA AVERAGE:', 0.8978273299028017)
+('CAR DATA AVERAGE:', 0.8325916230366491)
+('PEN DATA MAX:', 0.9013722126929674)
+('CAR DATA MAX:', 0.8462041884816754)
+('STD DEV OF PEN DATA:', 0.0036006967395846175)
+('STD DEV OF CAR DATA:', 0.013169907045136393)
+Starting training at time 16:25:15.129467 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005322 and weight change 0.000230
+. . . . . . . . . ! on iteration 20; training error 0.004000 and weight change 0.000155
+. . . . . . . . . ! on iteration 30; training error 0.003518 and weight change 0.000119
+. . . . . . . . . ! on iteration 40; training error 0.003269 and weight change 0.000101
+. . . . . . . . . ! on iteration 50; training error 0.003108 and weight change 0.000090
+. . . . . . . . . ! on iteration 60; training error 0.002970 and weight change 0.000086
+. . . . . . . . . ! on iteration 70; training error 0.002795 and weight change 0.000080
+. Finished after 72 iterations at time 16:33:05.215369 with training error 0.002783 and weight change 0.000080
+Feed Forward Test correctly classified 3167, incorrectly classified 331, test percent error  0.905374
+
+Starting training at time 16:33:05.856858 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.029801 and weight change 0.000456
+. . . . . . . . . ! on iteration 20; training error 0.022270 and weight change 0.000383
+. . . . . . . . . ! on iteration 30; training error 0.018685 and weight change 0.000346
+. . . . . . . . . ! on iteration 40; training error 0.016237 and weight change 0.000321
+. . . . . . . . . ! on iteration 50; training error 0.014341 and weight change 0.000301
+. . . . . . . . . ! on iteration 60; training error 0.012755 and weight change 0.000284
+. . . . . . . . . ! on iteration 70; training error 0.011358 and weight change 0.000268
+. . . . . . . . . ! on iteration 80; training error 0.010078 and weight change 0.000253
+. . . . . . . . . ! on iteration 90; training error 0.008884 and weight change 0.000237
+. . . . . . . . . ! on iteration 100; training error 0.007762 and weight change 0.000221
+. . . . . . . . . ! on iteration 110; training error 0.006699 and weight change 0.000206
+. . . . . . . . . ! on iteration 120; training error 0.005708 and weight change 0.000190
+. . . . . . . . . ! on iteration 130; training error 0.004834 and weight change 0.000172
+. . . . . . . . . ! on iteration 140; training error 0.004109 and weight change 0.000154
+. . . . . . . . . ! on iteration 150; training error 0.003524 and weight change 0.000137
+. . . . . . . . . ! on iteration 160; training error 0.003051 and weight change 0.000122
+. . . . . . . . . ! on iteration 170; training error 0.002668 and weight change 0.000110
+. . . . . . . . . ! on iteration 180; training error 0.002355 and weight change 0.000099
+. . . . . . . . . ! on iteration 190; training error 0.002096 and weight change 0.000090
+. . . . . . . . . Finished after 200 iterations at time 16:33:37.150484 with training error 0.001899 and weight change 0.000083
+Feed Forward Test correctly classified 1264, incorrectly classified 264, test percent error  0.827225
+
+Starting training at time 16:33:37.407247 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005203 and weight change 0.000222
+. . . . . . . . . ! on iteration 20; training error 0.004010 and weight change 0.000149
+. . . . . . . . . ! on iteration 30; training error 0.003544 and weight change 0.000117
+. . . . . . . . . ! on iteration 40; training error 0.003282 and weight change 0.000097
+. . . . . . . . . ! on iteration 50; training error 0.003098 and weight change 0.000088
+. . . . . . . . . Finished after 60 iterations at time 16:40:10.556140 with training error 0.002919 and weight change 0.000080
+Feed Forward Test correctly classified 3156, incorrectly classified 342, test percent error  0.902230
+
+Starting training at time 16:40:11.195687 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.032828 and weight change 0.000430
+. . . . . . . . . ! on iteration 20; training error 0.022740 and weight change 0.000361
+. . . . . . . . . ! on iteration 30; training error 0.018852 and weight change 0.000315
+. . . . . . . . . ! on iteration 40; training error 0.016412 and weight change 0.000286
+. . . . . . . . . ! on iteration 50; training error 0.014493 and weight change 0.000265
+. . . . . . . . . ! on iteration 60; training error 0.012824 and weight change 0.000247
+. . . . . . . . . ! on iteration 70; training error 0.011300 and weight change 0.000231
+. . . . . . . . . ! on iteration 80; training error 0.009880 and weight change 0.000216
+. . . . . . . . . ! on iteration 90; training error 0.008567 and weight change 0.000201
+. . . . . . . . . ! on iteration 100; training error 0.007382 and weight change 0.000186
+. . . . . . . . . ! on iteration 110; training error 0.006345 and weight change 0.000171
+. . . . . . . . . ! on iteration 120; training error 0.005458 and weight change 0.000155
+. . . . . . . . . ! on iteration 130; training error 0.004708 and weight change 0.000141
+. . . . . . . . . ! on iteration 140; training error 0.004077 and weight change 0.000128
+. . . . . . . . . ! on iteration 150; training error 0.003545 and weight change 0.000116
+. . . . . . . . . ! on iteration 160; training error 0.003097 and weight change 0.000105
+. . . . . . . . . ! on iteration 170; training error 0.002721 and weight change 0.000096
+. . . . . . . . . ! on iteration 180; training error 0.002405 and weight change 0.000087
+. . . . . . . . . ! on iteration 190; training error 0.002138 and weight change 0.000080
+Finished after 191 iterations at time 16:40:41.113810 with training error 0.002138 and weight change 0.000080
+Feed Forward Test correctly classified 1268, incorrectly classified 260, test percent error  0.829843
+
+Starting training at time 16:40:41.377152 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005923 and weight change 0.000243
+. . . . . . . . . ! on iteration 20; training error 0.004179 and weight change 0.000165
+. . . . . . . . . ! on iteration 30; training error 0.003525 and weight change 0.000126
+. . . . . . . . . ! on iteration 40; training error 0.003199 and weight change 0.000104
+. . . . . . . . . ! on iteration 50; training error 0.002986 and weight change 0.000090
+. . . . . . . . . Finished after 60 iterations at time 16:47:14.223559 with training error 0.002849 and weight change 0.000080
+Feed Forward Test correctly classified 3159, incorrectly classified 339, test percent error  0.903087
+
+Starting training at time 16:47:14.870133 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.027582 and weight change 0.000446
+. . . . . . . . . ! on iteration 20; training error 0.021477 and weight change 0.000379
+. . . . . . . . . ! on iteration 30; training error 0.018457 and weight change 0.000342
+. . . . . . . . . ! on iteration 40; training error 0.016381 and weight change 0.000319
+. . . . . . . . . ! on iteration 50; training error 0.014671 and weight change 0.000302
+. . . . . . . . . ! on iteration 60; training error 0.013108 and weight change 0.000287
+. . . . . . . . . ! on iteration 70; training error 0.011633 and weight change 0.000271
+. . . . . . . . . ! on iteration 80; training error 0.010245 and weight change 0.000254
+. . . . . . . . . ! on iteration 90; training error 0.008951 and weight change 0.000236
+. . . . . . . . . ! on iteration 100; training error 0.007766 and weight change 0.000217
+. . . . . . . . . ! on iteration 110; training error 0.006711 and weight change 0.000198
+. . . . . . . . . ! on iteration 120; training error 0.005796 and weight change 0.000179
+. . . . . . . . . ! on iteration 130; training error 0.005015 and weight change 0.000163
+. . . . . . . . . ! on iteration 140; training error 0.004353 and weight change 0.000147
+. . . . . . . . . ! on iteration 150; training error 0.003794 and weight change 0.000134
+. . . . . . . . . ! on iteration 160; training error 0.003322 and weight change 0.000122
+. . . . . . . . . ! on iteration 170; training error 0.002923 and weight change 0.000111
+. . . . . . . . . ! on iteration 180; training error 0.002586 and weight change 0.000101
+. . . . . . . . . ! on iteration 190; training error 0.002301 and weight change 0.000092
+. . . . . . . . . Finished after 200 iterations at time 16:47:46.008232 with training error 0.002081 and weight change 0.000085
+Feed Forward Test correctly classified 1305, incorrectly classified 223, test percent error  0.854058
+
+Starting training at time 16:47:46.277675 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005377 and weight change 0.000233
+. . . . . . . . . ! on iteration 20; training error 0.003970 and weight change 0.000154
+. . . . . . . . . ! on iteration 30; training error 0.003446 and weight change 0.000121
+. . . . . . . . . ! on iteration 40; training error 0.003096 and weight change 0.000102
+. . . . . . . . . ! on iteration 50; training error 0.002900 and weight change 0.000087
+. . . . . . . Finished after 58 iterations at time 16:54:05.998449 with training error 0.002808 and weight change 0.000079
+Feed Forward Test correctly classified 3175, incorrectly classified 323, test percent error  0.907662
+
+Starting training at time 16:54:06.644328 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.029586 and weight change 0.000464
+. . . . . . . . . ! on iteration 20; training error 0.022495 and weight change 0.000383
+. . . . . . . . . ! on iteration 30; training error 0.018950 and weight change 0.000344
+. . . . . . . . . ! on iteration 40; training error 0.016557 and weight change 0.000315
+. . . . . . . . . ! on iteration 50; training error 0.014769 and weight change 0.000293
+. . . . . . . . . ! on iteration 60; training error 0.013263 and weight change 0.000273
+. . . . . . . . . ! on iteration 70; training error 0.011898 and weight change 0.000255
+. . . . . . . . . ! on iteration 80; training error 0.010611 and weight change 0.000238
+. . . . . . . . . ! on iteration 90; training error 0.009374 and weight change 0.000222
+. . . . . . . . . ! on iteration 100; training error 0.008183 and weight change 0.000206
+. . . . . . . . . ! on iteration 110; training error 0.007067 and weight change 0.000190
+. . . . . . . . . ! on iteration 120; training error 0.006063 and weight change 0.000174
+. . . . . . . . . ! on iteration 130; training error 0.005191 and weight change 0.000158
+. . . . . . . . . ! on iteration 140; training error 0.004448 and weight change 0.000143
+. . . . . . . . . ! on iteration 150; training error 0.003819 and weight change 0.000130
+. . . . . . . . . ! on iteration 160; training error 0.003289 and weight change 0.000118
+. . . . . . . . . ! on iteration 170; training error 0.002850 and weight change 0.000106
+. . . . . . . . . ! on iteration 180; training error 0.002490 and weight change 0.000096
+. . . . . . . . . ! on iteration 190; training error 0.002194 and weight change 0.000087
+. . . . . . . . . Finished after 200 iterations at time 16:54:37.819096 with training error 0.001972 and weight change 0.000080
+Feed Forward Test correctly classified 1283, incorrectly classified 245, test percent error  0.839660
+
+Starting training at time 16:54:38.085496 with 16 inputs, 10 outputs, [30] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005385 and weight change 0.000230
+. . . . . . . . . ! on iteration 20; training error 0.003979 and weight change 0.000152
+. . . . . . . . . ! on iteration 30; training error 0.003386 and weight change 0.000118
+. . . . . . . . . ! on iteration 40; training error 0.003087 and weight change 0.000098
+. . . . . . . . . ! on iteration 50; training error 0.002904 and weight change 0.000085
+. . . . . Finished after 56 iterations at time 17:00:45.107389 with training error 0.002836 and weight change 0.000080
+Feed Forward Test correctly classified 3162, incorrectly classified 336, test percent error  0.903945
+
+Starting training at time 17:00:45.760651 with 21 inputs, 4 outputs, [30] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.028947 and weight change 0.000436
+. . . . . . . . . ! on iteration 20; training error 0.021282 and weight change 0.000358
+. . . . . . . . . ! on iteration 30; training error 0.017917 and weight change 0.000314
+. . . . . . . . . ! on iteration 40; training error 0.015753 and weight change 0.000283
+. . . . . . . . . ! on iteration 50; training error 0.014075 and weight change 0.000258
+. . . . . . . . . ! on iteration 60; training error 0.012628 and weight change 0.000237
+. . . . . . . . . ! on iteration 70; training error 0.011315 and weight change 0.000217
+. . . . . . . . . ! on iteration 80; training error 0.010113 and weight change 0.000199
+. . . . . . . . . ! on iteration 90; training error 0.009020 and weight change 0.000182
+. . . . . . . . . ! on iteration 100; training error 0.008011 and weight change 0.000169
+. . . . . . . . . ! on iteration 110; training error 0.007050 and weight change 0.000158
+. . . . . . . . . ! on iteration 120; training error 0.006146 and weight change 0.000147
+. . . . . . . . . ! on iteration 130; training error 0.005342 and weight change 0.000137
+. . . . . . . . . ! on iteration 140; training error 0.004646 and weight change 0.000127
+. . . . . . . . . ! on iteration 150; training error 0.004039 and weight change 0.000118
+. . . . . . . . . ! on iteration 160; training error 0.003494 and weight change 0.000110
+. . . . . . . . . ! on iteration 170; training error 0.003006 and weight change 0.000101
+. . . . . . . . . ! on iteration 180; training error 0.002594 and weight change 0.000092
+. . . . . . . . . ! on iteration 190; training error 0.002258 and weight change 0.000083
+. . . . . Finished after 196 iterations at time 17:01:16.457649 with training error 0.002115 and weight change 0.000079
+Feed Forward Test correctly classified 1275, incorrectly classified 253, test percent error  0.834424
+
+('PEN DATA AVERAGE:', 0.904459691252144)
+('CAR DATA AVERAGE:', 0.8370418848167539)
+('PEN DATA MAX:', 0.907661520869068)
+('CAR DATA MAX:', 0.8540575916230366)
+('STD DEV OF PEN DATA:', 0.0019083269603520467)
+('STD DEV OF CAR DATA:', 0.009501932676901328)
+Starting training at time 17:01:16.715066 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005318 and weight change 0.000222
+. . . . . . . . . ! on iteration 20; training error 0.004058 and weight change 0.000150
+. . . . . . . . . ! on iteration 30; training error 0.003493 and weight change 0.000120
+. . . . . . . . . ! on iteration 40; training error 0.003102 and weight change 0.000100
+. . . . . . . . . ! on iteration 50; training error 0.002774 and weight change 0.000084
+. . . . Finished after 55 iterations at time 17:08:10.185806 with training error 0.002711 and weight change 0.000079
+Feed Forward Test correctly classified 3171, incorrectly classified 327, test percent error  0.906518
+
+Starting training at time 17:08:10.901896 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.029365 and weight change 0.000384
+. . . . . . . . . ! on iteration 20; training error 0.021655 and weight change 0.000356
+. . . . . . . . . ! on iteration 30; training error 0.017649 and weight change 0.000318
+. . . . . . . . . ! on iteration 40; training error 0.015031 and weight change 0.000291
+. . . . . . . . . ! on iteration 50; training error 0.013000 and weight change 0.000270
+. . . . . . . . . ! on iteration 60; training error 0.011299 and weight change 0.000251
+. . . . . . . . . ! on iteration 70; training error 0.009825 and weight change 0.000233
+. . . . . . . . . ! on iteration 80; training error 0.008529 and weight change 0.000216
+. . . . . . . . . ! on iteration 90; training error 0.007384 and weight change 0.000199
+. . . . . . . . . ! on iteration 100; training error 0.006382 and weight change 0.000182
+. . . . . . . . . ! on iteration 110; training error 0.005515 and weight change 0.000165
+. . . . . . . . . ! on iteration 120; training error 0.004771 and weight change 0.000150
+. . . . . . . . . ! on iteration 130; training error 0.004136 and weight change 0.000136
+. . . . . . . . . ! on iteration 140; training error 0.003596 and weight change 0.000123
+. . . . . . . . . ! on iteration 150; training error 0.003138 and weight change 0.000111
+. . . . . . . . . ! on iteration 160; training error 0.002750 and weight change 0.000101
+. . . . . . . . . ! on iteration 170; training error 0.002423 and weight change 0.000091
+. . . . . . . . . ! on iteration 180; training error 0.002146 and weight change 0.000083
+. . . . . Finished after 186 iterations at time 17:08:44.283097 with training error 0.002024 and weight change 0.000079
+Feed Forward Test correctly classified 1285, incorrectly classified 243, test percent error  0.840969
+
+Starting training at time 17:08:44.579435 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005310 and weight change 0.000208
+. . . . . . . . . ! on iteration 20; training error 0.003992 and weight change 0.000140
+. . . . . . . . . ! on iteration 30; training error 0.003398 and weight change 0.000110
+. . . . . . . . . ! on iteration 40; training error 0.003097 and weight change 0.000089
+. . . . . . . . Finished after 49 iterations at time 17:14:54.654009 with training error 0.002944 and weight change 0.000079
+Feed Forward Test correctly classified 3172, incorrectly classified 326, test percent error  0.906804
+
+Starting training at time 17:14:55.371821 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.028147 and weight change 0.000407
+. . . . . . . . . ! on iteration 20; training error 0.021329 and weight change 0.000336
+. . . . . . . . . ! on iteration 30; training error 0.018070 and weight change 0.000300
+. . . . . . . . . ! on iteration 40; training error 0.015837 and weight change 0.000273
+. . . . . . . . . ! on iteration 50; training error 0.014074 and weight change 0.000249
+. . . . . . . . . ! on iteration 60; training error 0.012553 and weight change 0.000229
+. . . . . . . . . ! on iteration 70; training error 0.011189 and weight change 0.000210
+. . . . . . . . . ! on iteration 80; training error 0.009954 and weight change 0.000193
+. . . . . . . . . ! on iteration 90; training error 0.008836 and weight change 0.000178
+. . . . . . . . . ! on iteration 100; training error 0.007807 and weight change 0.000165
+. . . . . . . . . ! on iteration 110; training error 0.006834 and weight change 0.000154
+. . . . . . . . . ! on iteration 120; training error 0.005928 and weight change 0.000143
+. . . . . . . . . ! on iteration 130; training error 0.005131 and weight change 0.000132
+. . . . . . . . . ! on iteration 140; training error 0.004435 and weight change 0.000121
+. . . . . . . . . ! on iteration 150; training error 0.003826 and weight change 0.000111
+. . . . . . . . . ! on iteration 160; training error 0.003298 and weight change 0.000102
+. . . . . . . . . ! on iteration 170; training error 0.002855 and weight change 0.000093
+. . . . . . . . . ! on iteration 180; training error 0.002491 and weight change 0.000084
+. . . . . . Finished after 187 iterations at time 17:15:29.209017 with training error 0.002303 and weight change 0.000080
+Feed Forward Test correctly classified 1291, incorrectly classified 237, test percent error  0.844895
+
+Starting training at time 17:15:29.511201 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005290 and weight change 0.000216
+. . . . . . . . . ! on iteration 20; training error 0.004059 and weight change 0.000145
+. . . . . . . . . ! on iteration 30; training error 0.003460 and weight change 0.000115
+. . . . . . . . . ! on iteration 40; training error 0.003145 and weight change 0.000094
+. . . . . . . . . ! on iteration 50; training error 0.002947 and weight change 0.000080
+Finished after 51 iterations at time 17:21:53.928104 with training error 0.002947 and weight change 0.000080
+Feed Forward Test correctly classified 3157, incorrectly classified 341, test percent error  0.902516
+
+Starting training at time 17:21:54.664191 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.030378 and weight change 0.000400
+. . . . . . . . . ! on iteration 20; training error 0.022812 and weight change 0.000358
+. . . . . . . . . ! on iteration 30; training error 0.018546 and weight change 0.000309
+. . . . . . . . . ! on iteration 40; training error 0.016003 and weight change 0.000278
+. . . . . . . . . ! on iteration 50; training error 0.014183 and weight change 0.000254
+. . . . . . . . . ! on iteration 60; training error 0.012714 and weight change 0.000234
+. . . . . . . . . ! on iteration 70; training error 0.011401 and weight change 0.000218
+. . . . . . . . . ! on iteration 80; training error 0.010141 and weight change 0.000205
+. . . . . . . . . ! on iteration 90; training error 0.008911 and weight change 0.000192
+. . . . . . . . . ! on iteration 100; training error 0.007751 and weight change 0.000178
+. . . . . . . . . ! on iteration 110; training error 0.006703 and weight change 0.000164
+. . . . . . . . . ! on iteration 120; training error 0.005782 and weight change 0.000150
+. . . . . . . . . ! on iteration 130; training error 0.004987 and weight change 0.000136
+. . . . . . . . . ! on iteration 140; training error 0.004307 and weight change 0.000123
+. . . . . . . . . ! on iteration 150; training error 0.003729 and weight change 0.000111
+. . . . . . . . . ! on iteration 160; training error 0.003237 and weight change 0.000101
+. . . . . . . . . ! on iteration 170; training error 0.002817 and weight change 0.000092
+. . . . . . . . . ! on iteration 180; training error 0.002461 and weight change 0.000084
+. . . . . Finished after 186 iterations at time 17:22:28.208166 with training error 0.002306 and weight change 0.000080
+Feed Forward Test correctly classified 1271, incorrectly classified 257, test percent error  0.831806
+
+Starting training at time 17:22:28.509562 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005378 and weight change 0.000218
+. . . . . . . . . ! on iteration 20; training error 0.004084 and weight change 0.000148
+. . . . . . . . . ! on iteration 30; training error 0.003469 and weight change 0.000119
+. . . . . . . . . ! on iteration 40; training error 0.003150 and weight change 0.000098
+. . . . . . . . . ! on iteration 50; training error 0.002960 and weight change 0.000085
+. . . . . Finished after 56 iterations at time 17:29:30.249125 with training error 0.002890 and weight change 0.000080
+Feed Forward Test correctly classified 3151, incorrectly classified 347, test percent error  0.900800
+
+Starting training at time 17:29:30.973680 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.029648 and weight change 0.000408
+. . . . . . . . . ! on iteration 20; training error 0.021974 and weight change 0.000346
+. . . . . . . . . ! on iteration 30; training error 0.018455 and weight change 0.000310
+. . . . . . . . . ! on iteration 40; training error 0.016145 and weight change 0.000284
+. . . . . . . . . ! on iteration 50; training error 0.014389 and weight change 0.000263
+. . . . . . . . . ! on iteration 60; training error 0.012918 and weight change 0.000245
+. . . . . . . . . ! on iteration 70; training error 0.011578 and weight change 0.000231
+. . . . . . . . . ! on iteration 80; training error 0.010284 and weight change 0.000217
+. . . . . . . . . ! on iteration 90; training error 0.009016 and weight change 0.000204
+. . . . . . . . . ! on iteration 100; training error 0.007817 and weight change 0.000190
+. . . . . . . . . ! on iteration 110; training error 0.006736 and weight change 0.000175
+. . . . . . . . . ! on iteration 120; training error 0.005785 and weight change 0.000161
+. . . . . . . . . ! on iteration 130; training error 0.004958 and weight change 0.000148
+. . . . . . . . . ! on iteration 140; training error 0.004245 and weight change 0.000135
+. . . . . . . . . ! on iteration 150; training error 0.003635 and weight change 0.000123
+. . . . . . . . . ! on iteration 160; training error 0.003124 and weight change 0.000111
+. . . . . . . . . ! on iteration 170; training error 0.002704 and weight change 0.000100
+. . . . . . . . . ! on iteration 180; training error 0.002360 and weight change 0.000090
+. . . . . . . . . ! on iteration 190; training error 0.002079 and weight change 0.000081
+. . Finished after 193 iterations at time 17:30:05.703736 with training error 0.002029 and weight change 0.000080
+Feed Forward Test correctly classified 1250, incorrectly classified 278, test percent error  0.818063
+
+Starting training at time 17:30:06.000066 with 16 inputs, 10 outputs, [35] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005327 and weight change 0.000224
+. . . . . . . . . ! on iteration 20; training error 0.003935 and weight change 0.000151
+. . . . . . . . . ! on iteration 30; training error 0.003420 and weight change 0.000117
+. . . . . . . . . ! on iteration 40; training error 0.003138 and weight change 0.000099
+. . . . . . . . . ! on iteration 50; training error 0.002945 and weight change 0.000085
+. . . . . Finished after 56 iterations at time 17:37:07.273429 with training error 0.002871 and weight change 0.000080
+Feed Forward Test correctly classified 3161, incorrectly classified 337, test percent error  0.903659
+
+Starting training at time 17:37:07.998848 with 21 inputs, 4 outputs, [35] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.030064 and weight change 0.000404
+. . . . . . . . . ! on iteration 20; training error 0.021881 and weight change 0.000350
+. . . . . . . . . ! on iteration 30; training error 0.018336 and weight change 0.000317
+. . . . . . . . . ! on iteration 40; training error 0.015943 and weight change 0.000293
+. . . . . . . . . ! on iteration 50; training error 0.014067 and weight change 0.000274
+. . . . . . . . . ! on iteration 60; training error 0.012440 and weight change 0.000258
+. . . . . . . . . ! on iteration 70; training error 0.010943 and weight change 0.000241
+. . . . . . . . . ! on iteration 80; training error 0.009548 and weight change 0.000224
+. . . . . . . . . ! on iteration 90; training error 0.008272 and weight change 0.000207
+. . . . . . . . . ! on iteration 100; training error 0.007128 and weight change 0.000189
+. . . . . . . . . ! on iteration 110; training error 0.006120 and weight change 0.000172
+. . . . . . . . . ! on iteration 120; training error 0.005247 and weight change 0.000155
+. . . . . . . . . ! on iteration 130; training error 0.004497 and weight change 0.000140
+. . . . . . . . . ! on iteration 140; training error 0.003851 and weight change 0.000127
+. . . . . . . . . ! on iteration 150; training error 0.003289 and weight change 0.000114
+. . . . . . . . . ! on iteration 160; training error 0.002815 and weight change 0.000102
+. . . . . . . . . ! on iteration 170; training error 0.002430 and weight change 0.000091
+. . . . . . . . . ! on iteration 180; training error 0.002121 and weight change 0.000082
+. . . Finished after 184 iterations at time 17:37:41.057514 with training error 0.002040 and weight change 0.000079
+Feed Forward Test correctly classified 1281, incorrectly classified 247, test percent error  0.838351
+
+('PEN DATA AVERAGE:', 0.9040594625500284)
+('CAR DATA AVERAGE:', 0.8348167539267015)
+('PEN DATA MAX:', 0.9068038879359634)
+('CAR DATA MAX:', 0.8448952879581152)
+('STD DEV OF PEN DATA:', 0.002312607023002483)
+('STD DEV OF CAR DATA:', 0.009398598466500645)
+Starting training at time 17:37:41.347156 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005406 and weight change 0.000205
+. . . . . . . . . ! on iteration 20; training error 0.004123 and weight change 0.000140
+. . . . . . . . . ! on iteration 30; training error 0.003637 and weight change 0.000111
+. . . . . . . . . ! on iteration 40; training error 0.003369 and weight change 0.000094
+. . . . . . . . . ! on iteration 50; training error 0.003172 and weight change 0.000084
+. . . . . . Finished after 57 iterations at time 17:45:46.933567 with training error 0.003070 and weight change 0.000079
+Feed Forward Test correctly classified 3091, incorrectly classified 407, test percent error  0.883648
+
+Starting training at time 17:45:47.750411 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.030710 and weight change 0.000386
+. . . . . . . . . ! on iteration 20; training error 0.022604 and weight change 0.000359
+. . . . . . . . . ! on iteration 30; training error 0.018076 and weight change 0.000317
+. . . . . . . . . ! on iteration 40; training error 0.015256 and weight change 0.000286
+. . . . . . . . . ! on iteration 50; training error 0.013155 and weight change 0.000261
+. . . . . . . . . ! on iteration 60; training error 0.011417 and weight change 0.000239
+. . . . . . . . . ! on iteration 70; training error 0.009905 and weight change 0.000218
+. . . . . . . . . ! on iteration 80; training error 0.008574 and weight change 0.000199
+. . . . . . . . . ! on iteration 90; training error 0.007410 and weight change 0.000181
+. . . . . . . . . ! on iteration 100; training error 0.006422 and weight change 0.000163
+. . . . . . . . . ! on iteration 110; training error 0.005597 and weight change 0.000147
+. . . . . . . . . ! on iteration 120; training error 0.004903 and weight change 0.000134
+. . . . . . . . . ! on iteration 130; training error 0.004310 and weight change 0.000121
+. . . . . . . . . ! on iteration 140; training error 0.003800 and weight change 0.000110
+. . . . . . . . . ! on iteration 150; training error 0.003366 and weight change 0.000100
+. . . . . . . . . ! on iteration 160; training error 0.003004 and weight change 0.000091
+. . . . . . . . . ! on iteration 170; training error 0.002705 and weight change 0.000083
+. . . . Finished after 175 iterations at time 17:46:23.458232 with training error 0.002599 and weight change 0.000080
+Feed Forward Test correctly classified 1229, incorrectly classified 299, test percent error  0.804319
+
+Starting training at time 17:46:23.800413 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005136 and weight change 0.000199
+. . . . . . . . . ! on iteration 20; training error 0.003897 and weight change 0.000132
+. . . . . . . . . ! on iteration 30; training error 0.003431 and weight change 0.000103
+. . . . . . . . . ! on iteration 40; training error 0.003137 and weight change 0.000090
+. . . . . . . Finished after 48 iterations at time 17:53:12.564846 with training error 0.002965 and weight change 0.000080
+Feed Forward Test correctly classified 3170, incorrectly classified 328, test percent error  0.906232
+
+Starting training at time 17:53:13.378864 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.029191 and weight change 0.000368
+. . . . . . . . . ! on iteration 20; training error 0.021911 and weight change 0.000321
+. . . . . . . . . ! on iteration 30; training error 0.018545 and weight change 0.000289
+. . . . . . . . . ! on iteration 40; training error 0.016380 and weight change 0.000264
+. . . . . . . . . ! on iteration 50; training error 0.014735 and weight change 0.000244
+. . . . . . . . . ! on iteration 60; training error 0.013326 and weight change 0.000227
+. . . . . . . . . ! on iteration 70; training error 0.012041 and weight change 0.000210
+. . . . . . . . . ! on iteration 80; training error 0.010853 and weight change 0.000194
+. . . . . . . . . ! on iteration 90; training error 0.009772 and weight change 0.000177
+. . . . . . . . . ! on iteration 100; training error 0.008809 and weight change 0.000161
+. . . . . . . . . ! on iteration 110; training error 0.007969 and weight change 0.000145
+. . . . . . . . . ! on iteration 120; training error 0.007250 and weight change 0.000131
+. . . . . . . . . ! on iteration 130; training error 0.006645 and weight change 0.000117
+. . . . . . . . . ! on iteration 140; training error 0.006140 and weight change 0.000105
+. . . . . . . . . ! on iteration 150; training error 0.005722 and weight change 0.000094
+. . . . . . . . . ! on iteration 160; training error 0.005377 and weight change 0.000085
+. . . . . . Finished after 167 iterations at time 17:53:47.878819 with training error 0.005199 and weight change 0.000079
+Feed Forward Test correctly classified 1202, incorrectly classified 326, test percent error  0.786649
+
+Starting training at time 17:53:48.211864 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005238 and weight change 0.000203
+. . . . . . . . . ! on iteration 20; training error 0.003924 and weight change 0.000133
+. . . . . . . . . ! on iteration 30; training error 0.003442 and weight change 0.000102
+. . . . . . . . . ! on iteration 40; training error 0.003178 and weight change 0.000085
+. . . . . . Finished after 47 iterations at time 18:00:34.435963 with training error 0.003055 and weight change 0.000080
+Feed Forward Test correctly classified 3102, incorrectly classified 396, test percent error  0.886792
+
+Starting training at time 18:00:35.265527 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.027074 and weight change 0.000390
+. . . . . . . . . ! on iteration 20; training error 0.020152 and weight change 0.000325
+. . . . . . . . . ! on iteration 30; training error 0.016729 and weight change 0.000289
+. . . . . . . . . ! on iteration 40; training error 0.014388 and weight change 0.000264
+. . . . . . . . . ! on iteration 50; training error 0.012482 and weight change 0.000243
+. . . . . . . . . ! on iteration 60; training error 0.010767 and weight change 0.000225
+. . . . . . . . . ! on iteration 70; training error 0.009229 and weight change 0.000206
+. . . . . . . . . ! on iteration 80; training error 0.007903 and weight change 0.000188
+. . . . . . . . . ! on iteration 90; training error 0.006785 and weight change 0.000170
+. . . . . . . . . ! on iteration 100; training error 0.005846 and weight change 0.000155
+. . . . . . . . . ! on iteration 110; training error 0.005051 and weight change 0.000141
+. . . . . . . . . ! on iteration 120; training error 0.004367 and weight change 0.000129
+. . . . . . . . . ! on iteration 130; training error 0.003779 and weight change 0.000118
+. . . . . . . . . ! on iteration 140; training error 0.003280 and weight change 0.000107
+. . . . . . . . . ! on iteration 150; training error 0.002861 and weight change 0.000097
+. . . . . . . . . ! on iteration 160; training error 0.002512 and weight change 0.000088
+. . . . . . . . . ! on iteration 170; training error 0.002219 and weight change 0.000080
+Finished after 171 iterations at time 18:01:10.500121 with training error 0.002219 and weight change 0.000080
+Feed Forward Test correctly classified 1292, incorrectly classified 236, test percent error  0.845550
+
+Starting training at time 18:01:10.839461 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005384 and weight change 0.000205
+. . . . . . . . . ! on iteration 20; training error 0.004047 and weight change 0.000139
+. . . . . . . . . ! on iteration 30; training error 0.003459 and weight change 0.000110
+. . . . . . . . . ! on iteration 40; training error 0.003136 and weight change 0.000091
+. . . . . . . . . ! on iteration 50; training error 0.002938 and weight change 0.000079
+Finished after 51 iterations at time 18:08:27.250843 with training error 0.002938 and weight change 0.000079
+Feed Forward Test correctly classified 3148, incorrectly classified 350, test percent error  0.899943
+
+Starting training at time 18:08:28.079898 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.028379 and weight change 0.000385
+. . . . . . . . . ! on iteration 20; training error 0.020899 and weight change 0.000327
+. . . . . . . . . ! on iteration 30; training error 0.017419 and weight change 0.000294
+. . . . . . . . . ! on iteration 40; training error 0.014982 and weight change 0.000272
+. . . . . . . . . ! on iteration 50; training error 0.012981 and weight change 0.000252
+. . . . . . . . . ! on iteration 60; training error 0.011231 and weight change 0.000233
+. . . . . . . . . ! on iteration 70; training error 0.009680 and weight change 0.000213
+. . . . . . . . . ! on iteration 80; training error 0.008310 and weight change 0.000195
+. . . . . . . . . ! on iteration 90; training error 0.007110 and weight change 0.000177
+. . . . . . . . . ! on iteration 100; training error 0.006070 and weight change 0.000160
+. . . . . . . . . ! on iteration 110; training error 0.005175 and weight change 0.000145
+. . . . . . . . . ! on iteration 120; training error 0.004408 and weight change 0.000131
+. . . . . . . . . ! on iteration 130; training error 0.003750 and weight change 0.000118
+. . . . . . . . . ! on iteration 140; training error 0.003193 and weight change 0.000106
+. . . . . . . . . ! on iteration 150; training error 0.002737 and weight change 0.000095
+. . . . . . . . . ! on iteration 160; training error 0.002369 and weight change 0.000085
+. . . . . . Finished after 167 iterations at time 18:09:02.227094 with training error 0.002183 and weight change 0.000080
+Feed Forward Test correctly classified 1271, incorrectly classified 257, test percent error  0.831806
+
+Starting training at time 18:09:02.564704 with 16 inputs, 10 outputs, [40] hidden layers, size of training set 7494, and size of test set 3498
+. . . . . . . . . ! on iteration 10; training error 0.005475 and weight change 0.000214
+. . . . . . . . . ! on iteration 20; training error 0.004069 and weight change 0.000143
+. . . . . . . . . ! on iteration 30; training error 0.003436 and weight change 0.000113
+. . . . . . . . . ! on iteration 40; training error 0.003102 and weight change 0.000091
+. . . . . . . . Finished after 49 iterations at time 18:15:58.865726 with training error 0.002946 and weight change 0.000080
+Feed Forward Test correctly classified 3174, incorrectly classified 324, test percent error  0.907376
+
+Starting training at time 18:15:59.691629 with 21 inputs, 4 outputs, [40] hidden layers, size of training set 200, and size of test set 1528
+. . . . . . . . . ! on iteration 10; training error 0.027920 and weight change 0.000411
+. . . . . . . . . ! on iteration 20; training error 0.020432 and weight change 0.000347
+. . . . . . . . . ! on iteration 30; training error 0.016871 and weight change 0.000308
+. . . . . . . . . ! on iteration 40; training error 0.014561 and weight change 0.000279
+. . . . . . . . . ! on iteration 50; training error 0.012878 and weight change 0.000257
+. . . . . . . . . ! on iteration 60; training error 0.011533 and weight change 0.000239
+. . . . . . . . . ! on iteration 70; training error 0.010382 and weight change 0.000224
+. . . . . . . . . ! on iteration 80; training error 0.009345 and weight change 0.000210
+. . . . . . . . . ! on iteration 90; training error 0.008374 and weight change 0.000197
+. . . . . . . . . ! on iteration 100; training error 0.007450 and weight change 0.000185
+. . . . . . . . . ! on iteration 110; training error 0.006579 and weight change 0.000172
+. . . . . . . . . ! on iteration 120; training error 0.005775 and weight change 0.000159
+. . . . . . . . . ! on iteration 130; training error 0.005053 and weight change 0.000146
+. . . . . . . . . ! on iteration 140; training error 0.004423 and weight change 0.000133
+. . . . . . . . . ! on iteration 150; training error 0.003879 and weight change 0.000121
+. . . . . . . . . ! on iteration 160; training error 0.003409 and weight change 0.000111
+. . . . . . . . . ! on iteration 170; training error 0.003000 and weight change 0.000102
+. . . . . . . . . ! on iteration 180; training error 0.002635 and weight change 0.000094
+. . . . . . . . . ! on iteration 190; training error 0.002308 and weight change 0.000086
+. . . . . . . . . Finished after 200 iterations at time 18:16:40.732751 with training error 0.002050 and weight change 0.000079
+Feed Forward Test correctly classified 1248, incorrectly classified 280, test percent error  0.816754
+
+('PEN DATA AVERAGE:', 0.8967981703830761)
+('CAR DATA AVERAGE:', 0.8170157068062828)
+('PEN DATA MAX:', 0.9073756432246999)
+('CAR DATA MAX:', 0.8455497382198953)
+('STD DEV OF PEN DATA:', 0.009836849933725137)
+('STD DEV OF CAR DATA:', 0.020573484795657595)
